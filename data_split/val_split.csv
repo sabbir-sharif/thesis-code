@@ -1,0 +1,1075 @@
+patient_id,age,gender,hospital_id,filename,image_path,class_label,date_taken,Caries,Crowned,Root Canal,Healthy
+P-00fd8a13,83,Female,HOSP1,RTC(135).png,Root Canal/RTC(135).png,Root Canal,21-02-22,0,0,1,0
+P-00fd8a13,83,Female,HOSP1,Caries(430).png,Caries/Caries(430).png,Caries,11/5/2024,1,0,0,0
+P-1745aecd,41,Female,HOSP1,RTC(403).png,Root Canal/RTC(403).png,Root Canal,10/10/2022,0,0,1,0
+P-1745aecd,41,Female,HOSP1,RTC(2301).png,Root Canal/RTC(2301).png,Root Canal,6/4/2024,0,0,1,0
+P-1745aecd,41,Female,HOSP1,Healthy(486).png,Healthy/Healthy(486).png,Healthy,13-01-25,0,0,0,1
+P-7ec88b1c,44,Male,HOSP1,RTC(1618).png,Root Canal/RTC(1618).png,Root Canal,16-07-23,0,0,1,0
+P-7ec88b1c,44,Male,HOSP1,Crowned(636).png,Crowned/Crowned(636).png,Crowned,25-09-23,0,1,0,0
+P-7ec88b1c,44,Male,HOSP1,Caries(486).png,Caries/Caries(486).png,Caries,25-12-23,1,0,0,0
+P-601b8e9c,84,Male,HOSP1,RTC(513).png,Root Canal/RTC(513).png,Root Canal,26-04-23,0,0,1,0
+P-601b8e9c,84,Male,HOSP1,RTC(2327).png,Root Canal/RTC(2327).png,Root Canal,27-04-23,0,0,1,0
+P-6d21d685,40,Female,HOSP1,Caries(495).png,Caries/Caries(495).png,Caries,8/5/2022,1,0,0,0
+P-6d21d685,40,Female,HOSP1,RTC(1068).png,Root Canal/RTC(1068).png,Root Canal,9/7/2023,0,0,1,0
+P-8d84db29,22,Female,HOSP1,Healthy(263).png,Healthy/Healthy(263).png,Healthy,4/8/2022,0,0,0,1
+P-8d84db29,22,Female,HOSP1,RTC(1952).png,Root Canal/RTC(1952).png,Root Canal,26-09-22,0,0,1,0
+P-4c337e35,16,Male,HOSP1,RTC(160).png,Root Canal/RTC(160).png,Root Canal,16-02-23,0,0,1,0
+P-4c337e35,16,Male,HOSP1,Healthy(862).png,Healthy/Healthy(862).png,Healthy,23-07-23,0,0,0,1
+P-e6fa3ebf,10,Male,HOSP1,Healthy(1364).png,Healthy/Healthy(1364).png,Healthy,24-05-22,0,0,0,1
+P-4698d7dc,15,Female,HOSP1,Healthy(910).png,Healthy/Healthy(910).png,Healthy,18-03-23,0,0,0,1
+P-4698d7dc,15,Female,HOSP1,Healthy(1483).png,Healthy/Healthy(1483).png,Healthy,23-08-24,0,0,0,1
+P-de4e7091,72,Female,HOSP1,Healthy(1311).png,Healthy/Healthy(1311).png,Healthy,13-05-24,0,0,0,1
+P-4f750da4,31,Male,HOSP1,RTC(1515).png,Root Canal/RTC(1515).png,Root Canal,14-03-22,0,0,1,0
+P-4f750da4,31,Male,HOSP1,Healthy(1126).png,Healthy/Healthy(1126).png,Healthy,16-04-24,0,0,0,1
+P-4f750da4,31,Male,HOSP1,RTC(768).png,Root Canal/RTC(768).png,Root Canal,19-09-24,0,0,1,0
+P-9cdba189,79,Female,HOSP1,Healthy(336).png,Healthy/Healthy(336).png,Healthy,27-05-23,0,0,0,1
+P-a117ad78,53,Male,HOSP1,RTC(2184).png,Root Canal/RTC(2184).png,Root Canal,19-01-22,0,0,1,0
+P-a117ad78,53,Male,HOSP1,Crowned(486).png,Crowned/Crowned(486).png,Crowned,1/8/2024,0,1,0,0
+P-2474e7c1,55,Female,HOSP1,Caries(18).png,Caries/Caries(18).png,Caries,27-08-22,1,0,0,0
+P-2474e7c1,55,Female,HOSP1,RTC(1100).png,Root Canal/RTC(1100).png,Root Canal,31-01-23,0,0,1,0
+P-2474e7c1,55,Female,HOSP1,RTC(1433).png,Root Canal/RTC(1433).png,Root Canal,18-03-24,0,0,1,0
+P-9444924f,72,Female,HOSP1,Crowned(217).png,Crowned/Crowned(217).png,Crowned,28-03-22,0,1,0,0
+P-9444924f,72,Female,HOSP1,RTC(137).png,Root Canal/RTC(137).png,Root Canal,1/11/2022,0,0,1,0
+P-9444924f,72,Female,HOSP1,Crowned(100).png,Crowned/Crowned(100).png,Crowned,9/4/2025,0,1,0,0
+P-32a5c505,74,Male,HOSP1,Caries(227).png,Caries/Caries(227).png,Caries,21-12-22,1,0,0,0
+P-16bfaf68,69,Female,HOSP1,Healthy(1009).png,Healthy/Healthy(1009).png,Healthy,2/1/2023,0,0,0,1
+P-2a76e3e6,68,Male,HOSP1,Healthy(818).png,Healthy/Healthy(818).png,Healthy,29-06-22,0,0,0,1
+P-609bfe94,72,Female,HOSP1,Healthy(1291).png,Healthy/Healthy(1291).png,Healthy,8/6/2024,0,0,0,1
+P-609bfe94,72,Female,HOSP1,RTC(18).png,Root Canal/RTC(18).png,Root Canal,1/3/2025,0,0,1,0
+P-f4a11e99,24,Male,HOSP1,RTC(945).png,Root Canal/RTC(945).png,Root Canal,29-06-22,0,0,1,0
+P-f4a11e99,24,Male,HOSP1,Healthy(551).png,Healthy/Healthy(551).png,Healthy,22-10-22,0,0,0,1
+P-881a2525,22,Female,HOSP1,Caries(589).png,Caries/Caries(589).png,Caries,13-03-24,1,0,0,0
+P-1751b049,16,Female,HOSP1,RTC(467).png,Root Canal/RTC(467).png,Root Canal,12/9/2022,0,0,1,0
+P-4fa941d6,30,Female,HOSP1,RTC(2350).png,Root Canal/RTC(2350).png,Root Canal,18-05-24,0,0,1,0
+P-4fa941d6,30,Female,HOSP1,RTC(1162).png,Root Canal/RTC(1162).png,Root Canal,8/10/2024,0,0,1,0
+P-2cad5ccc,65,Male,HOSP1,RTC(715).png,Root Canal/RTC(715).png,Root Canal,9/9/2023,0,0,1,0
+P-26ad6573,60,Female,HOSP1,RTC(352).png,Root Canal/RTC(352).png,Root Canal,20-12-22,0,0,1,0
+P-26ad6573,60,Female,HOSP1,Crowned(174).png,Crowned/Crowned(174).png,Crowned,11/10/2023,0,1,0,0
+P-e704224d,53,Male,HOSP1,Healthy(1233).png,Healthy/Healthy(1233).png,Healthy,23-05-22,0,0,0,1
+P-e704224d,53,Male,HOSP1,Caries(216).png,Caries/Caries(216).png,Caries,24-10-23,1,0,0,0
+P-e704224d,53,Male,HOSP1,Crowned(641).png,Crowned/Crowned(641).png,Crowned,22-11-23,0,1,0,0
+P-af19d36f,67,Female,HOSP1,Healthy(134).png,Healthy/Healthy(134).png,Healthy,1/2/2022,0,0,0,1
+P-af19d36f,67,Female,HOSP1,RTC(1177).png,Root Canal/RTC(1177).png,Root Canal,22-04-22,0,0,1,0
+P-c0aa5c50,75,Female,HOSP1,RTC(639).png,Root Canal/RTC(639).png,Root Canal,27-01-22,0,0,1,0
+P-c0aa5c50,75,Female,HOSP1,Crowned(569).png,Crowned/Crowned(569).png,Crowned,8/11/2022,0,1,0,0
+P-c0aa5c50,75,Female,HOSP1,RTC(529).png,Root Canal/RTC(529).png,Root Canal,2/6/2023,0,0,1,0
+P-2575c9ac,85,Female,HOSP1,Healthy(1167).png,Healthy/Healthy(1167).png,Healthy,19-02-22,0,0,0,1
+P-2575c9ac,85,Female,HOSP1,Healthy(331).png,Healthy/Healthy(331).png,Healthy,7/2/2023,0,0,0,1
+P-66713887,27,Female,HOSP1,Healthy(204).png,Healthy/Healthy(204).png,Healthy,26-02-25,0,0,0,1
+P-bcbbfaff,56,Female,HOSP1,RTC(1705).png,Root Canal/RTC(1705).png,Root Canal,1/7/2024,0,0,1,0
+P-bcbbfaff,56,Female,HOSP1,Healthy(659).png,Healthy/Healthy(659).png,Healthy,2/7/2024,0,0,0,1
+P-a50e3399,65,Female,HOSP1,Healthy(1104).png,Healthy/Healthy(1104).png,Healthy,20-04-22,0,0,0,1
+P-a50e3399,65,Female,HOSP1,RTC(530).png,Root Canal/RTC(530).png,Root Canal,9/11/2022,0,0,1,0
+P-de9be8a4,65,Male,HOSP1,Healthy(845).png,Healthy/Healthy(845).png,Healthy,20-01-23,0,0,0,1
+P-de9be8a4,65,Male,HOSP1,RTC(1217).png,Root Canal/RTC(1217).png,Root Canal,3/12/2024,0,0,1,0
+P-ff2ff35e,41,Male,HOSP1,Healthy(635).png,Healthy/Healthy(635).png,Healthy,16-09-22,0,0,0,1
+P-ff2ff35e,41,Male,HOSP1,RTC(341).png,Root Canal/RTC(341).png,Root Canal,23-02-25,0,0,1,0
+P-e80cd8e9,25,Female,HOSP1,Healthy(1184).png,Healthy/Healthy(1184).png,Healthy,4/11/2023,0,0,0,1
+P-e82a9a23,59,Male,HOSP1,Crowned(41).png,Crowned/Crowned(41).png,Crowned,18-09-23,0,1,0,0
+P-c282fe02,79,Female,HOSP1,Caries(78).png,Caries/Caries(78).png,Caries,8/3/2023,1,0,0,0
+P-53a55d95,20,Female,HOSP1,RTC(1650).png,Root Canal/RTC(1650).png,Root Canal,16-01-25,0,0,1,0
+P-b2c1fa4e,33,Male,HOSP1,Healthy(996).png,Healthy/Healthy(996).png,Healthy,2/6/2022,0,0,0,1
+P-b2c1fa4e,33,Male,HOSP1,RTC(394).png,Root Canal/RTC(394).png,Root Canal,17-07-23,0,0,1,0
+P-b2c1fa4e,33,Male,HOSP1,Crowned(679).png,Crowned/Crowned(679).png,Crowned,27-07-23,0,1,0,0
+P-e6229ccd,45,Male,HOSP1,RTC(1469).png,Root Canal/RTC(1469).png,Root Canal,16-04-24,0,0,1,0
+P-e6229ccd,45,Male,HOSP1,Healthy(1235).png,Healthy/Healthy(1235).png,Healthy,30-04-25,0,0,0,1
+P-155388c4,63,Male,HOSP1,RTC(348).png,Root Canal/RTC(348).png,Root Canal,20-11-22,0,0,1,0
+P-155388c4,63,Male,HOSP1,RTC(335).png,Root Canal/RTC(335).png,Root Canal,22-01-23,0,0,1,0
+P-b460e064,24,Male,HOSP1,Crowned(284).png,Crowned/Crowned(284).png,Crowned,8/10/2023,0,1,0,0
+P-b460e064,24,Male,HOSP1,Crowned(304).png,Crowned/Crowned(304).png,Crowned,20-05-24,0,1,0,0
+P-8ee08ea2,51,Male,HOSP1,Healthy(948).png,Healthy/Healthy(948).png,Healthy,9/6/2022,0,0,0,1
+P-8ee08ea2,51,Male,HOSP1,Healthy(523).png,Healthy/Healthy(523).png,Healthy,15-04-24,0,0,0,1
+P-8ee08ea2,51,Male,HOSP1,Crowned(249).png,Crowned/Crowned(249).png,Crowned,28-09-24,0,1,0,0
+P-79179626,24,Male,HOSP1,RTC(1883).png,Root Canal/RTC(1883).png,Root Canal,1/1/2022,0,0,1,0
+P-2926d826,82,Female,HOSP1,Crowned(252).png,Crowned/Crowned(252).png,Crowned,30-07-22,0,1,0,0
+P-2926d826,82,Female,HOSP1,RTC(178).png,Root Canal/RTC(178).png,Root Canal,29-10-22,0,0,1,0
+P-2926d826,82,Female,HOSP1,RTC(1020).png,Root Canal/RTC(1020).png,Root Canal,27-01-24,0,0,1,0
+P-c7b5c988,21,Female,HOSP1,RTC(446).png,Root Canal/RTC(446).png,Root Canal,26-12-24,0,0,1,0
+P-2f5f6e98,82,Female,HOSP1,Healthy(790).png,Healthy/Healthy(790).png,Healthy,25-12-22,0,0,0,1
+P-2f5f6e98,82,Female,HOSP1,RTC(1296).png,Root Canal/RTC(1296).png,Root Canal,30-05-23,0,0,1,0
+P-864b46f2,40,Male,HOSP1,Healthy(377).png,Healthy/Healthy(377).png,Healthy,8/10/2022,0,0,0,1
+P-864b46f2,40,Male,HOSP1,Caries(546).png,Caries/Caries(546).png,Caries,12/11/2022,1,0,0,0
+P-864b46f2,40,Male,HOSP1,RTC(261).png,Root Canal/RTC(261).png,Root Canal,26-01-24,0,0,1,0
+P-f632c1d1,82,Male,HOSP1,Caries(60).png,Caries/Caries(60).png,Caries,14-08-24,1,0,0,0
+P-8852c344,51,Female,HOSP1,Healthy(28).png,Healthy/Healthy(28).png,Healthy,15-07-23,0,0,0,1
+P-8852c344,51,Female,HOSP1,Healthy(101).png,Healthy/Healthy(101).png,Healthy,13-04-24,0,0,0,1
+P-01a802c7,15,Male,HOSP1,Healthy(1322).png,Healthy/Healthy(1322).png,Healthy,18-01-23,0,0,0,1
+P-01a802c7,15,Male,HOSP1,Crowned(6).png,Crowned/Crowned(6).png,Crowned,17-06-24,0,1,0,0
+P-6d3864d0,42,Female,HOSP1,Healthy(284).png,Healthy/Healthy(284).png,Healthy,3/9/2022,0,0,0,1
+P-6d3864d0,42,Female,HOSP1,RTC(1522).png,Root Canal/RTC(1522).png,Root Canal,16-10-24,0,0,1,0
+P-9180cf71,69,Male,HOSP1,RTC(1003).png,Root Canal/RTC(1003).png,Root Canal,23-05-22,0,0,1,0
+P-9180cf71,69,Male,HOSP1,Healthy(1173).png,Healthy/Healthy(1173).png,Healthy,27-06-23,0,0,0,1
+P-d21fa612,61,Male,HOSP1,Healthy(296).png,Healthy/Healthy(296).png,Healthy,26-07-23,0,0,0,1
+P-d21fa612,61,Male,HOSP1,RTC(1279).png,Root Canal/RTC(1279).png,Root Canal,6/5/2024,0,0,1,0
+P-d21fa612,61,Male,HOSP1,Healthy(707).png,Healthy/Healthy(707).png,Healthy,15-05-25,0,0,0,1
+P-833642e5,58,Female,HOSP1,Caries(292).png,Caries/Caries(292).png,Caries,23-07-24,1,0,0,0
+P-833642e5,58,Female,HOSP1,RTC(183).png,Root Canal/RTC(183).png,Root Canal,11/3/2025,0,0,1,0
+P-833642e5,58,Female,HOSP1,RTC(1406).png,Root Canal/RTC(1406).png,Root Canal,26-05-25,0,0,1,0
+P-22a3b8b0,78,Male,HOSP1,Healthy(1011).png,Healthy/Healthy(1011).png,Healthy,2/1/2022,0,0,0,1
+P-22a3b8b0,78,Male,HOSP1,RTC(610).png,Root Canal/RTC(610).png,Root Canal,21-09-22,0,0,1,0
+P-22a3b8b0,78,Male,HOSP1,Healthy(302).png,Healthy/Healthy(302).png,Healthy,20-03-24,0,0,0,1
+P-6be7ebab,21,Female,HOSP1,Healthy(1421).png,Healthy/Healthy(1421).png,Healthy,13-08-22,0,0,0,1
+P-6be7ebab,21,Female,HOSP1,Healthy(227).png,Healthy/Healthy(227).png,Healthy,9/3/2025,0,0,0,1
+P-badb3db7,82,Female,HOSP1,Healthy(195).png,Healthy/Healthy(195).png,Healthy,30-01-24,0,0,0,1
+P-2e2056f6,12,Female,HOSP1,RTC(1380).png,Root Canal/RTC(1380).png,Root Canal,20-01-23,0,0,1,0
+P-2e2056f6,12,Female,HOSP1,RTC(851).png,Root Canal/RTC(851).png,Root Canal,14-02-24,0,0,1,0
+P-d6ab2fcb,21,Female,HOSP1,RTC(1709).png,Root Canal/RTC(1709).png,Root Canal,31-08-23,0,0,1,0
+P-d6ab2fcb,21,Female,HOSP1,Crowned(721).png,Crowned/Crowned(721).png,Crowned,13-10-24,0,1,0,0
+P-42122b0a,78,Male,HOSP1,RTC(1200).png,Root Canal/RTC(1200).png,Root Canal,1/11/2023,0,0,1,0
+P-eac11234,85,Male,HOSP1,Crowned(389).png,Crowned/Crowned(389).png,Crowned,3/11/2022,0,1,0,0
+P-eac11234,85,Male,HOSP1,Crowned(24).png,Crowned/Crowned(24).png,Crowned,27-02-25,0,1,0,0
+P-b401d55e,29,Male,HOSP1,Crowned(408).png,Crowned/Crowned(408).png,Crowned,11/3/2025,0,1,0,0
+P-1817c60f,11,Male,HOSP1,Healthy(261).png,Healthy/Healthy(261).png,Healthy,7/1/2023,0,0,0,1
+P-1817c60f,11,Male,HOSP1,RTC(1617).png,Root Canal/RTC(1617).png,Root Canal,10/6/2023,0,0,1,0
+P-1817c60f,11,Male,HOSP1,RTC(2251).png,Root Canal/RTC(2251).png,Root Canal,17-09-23,0,0,1,0
+P-d82ca6e6,51,Female,HOSP1,Healthy(123).png,Healthy/Healthy(123).png,Healthy,18-11-23,0,0,0,1
+P-d82ca6e6,51,Female,HOSP1,Caries(154).png,Caries/Caries(154).png,Caries,28-03-24,1,0,0,0
+P-963bb975,42,Female,HOSP1,RTC(1013).png,Root Canal/RTC(1013).png,Root Canal,28-03-22,0,0,1,0
+P-963bb975,42,Female,HOSP1,RTC(982).png,Root Canal/RTC(982).png,Root Canal,5/7/2022,0,0,1,0
+P-963bb975,42,Female,HOSP1,Healthy(72).png,Healthy/Healthy(72).png,Healthy,25-03-24,0,0,0,1
+P-e7c4e3a8,61,Female,HOSP1,Healthy(464).png,Healthy/Healthy(464).png,Healthy,20-08-23,0,0,0,1
+P-e7c4e3a8,61,Female,HOSP1,Caries(468).png,Caries/Caries(468).png,Caries,28-09-23,1,0,0,0
+P-593c5473,79,Male,HOSP1,RTC(2236).png,Root Canal/RTC(2236).png,Root Canal,28-06-23,0,0,1,0
+P-ebc7a0fe,35,Male,HOSP1,Crowned(657).png,Crowned/Crowned(657).png,Crowned,28-04-23,0,1,0,0
+P-ebc7a0fe,35,Male,HOSP1,RTC(1138).png,Root Canal/RTC(1138).png,Root Canal,14-06-23,0,0,1,0
+P-ebc7a0fe,35,Male,HOSP1,Healthy(178).png,Healthy/Healthy(178).png,Healthy,3/10/2024,0,0,0,1
+P-503303c0,71,Female,HOSP1,RTC(2425).png,Root Canal/RTC(2425).png,Root Canal,19-03-24,0,0,1,0
+P-11210eea,62,Female,HOSP1,Healthy(238).png,Healthy/Healthy(238).png,Healthy,26-12-23,0,0,0,1
+P-11210eea,62,Female,HOSP1,Caries(564).png,Caries/Caries(564).png,Caries,8/9/2024,1,0,0,0
+P-546bdb6c,61,Female,HOSP1,Healthy(225).png,Healthy/Healthy(225).png,Healthy,1/12/2022,0,0,0,1
+P-546bdb6c,61,Female,HOSP1,RTC(508).png,Root Canal/RTC(508).png,Root Canal,1/12/2023,0,0,1,0
+P-546bdb6c,61,Female,HOSP1,Healthy(663).png,Healthy/Healthy(663).png,Healthy,26-08-24,0,0,0,1
+P-46004d3d,76,Female,HOSP1,RTC(1694).png,Root Canal/RTC(1694).png,Root Canal,23-06-22,0,0,1,0
+P-46004d3d,76,Female,HOSP1,RTC(831).png,Root Canal/RTC(831).png,Root Canal,19-10-23,0,0,1,0
+P-46004d3d,76,Female,HOSP1,Healthy(1036).png,Healthy/Healthy(1036).png,Healthy,7/5/2024,0,0,0,1
+P-b820a8f4,40,Male,HOSP1,RTC(1825).png,Root Canal/RTC(1825).png,Root Canal,10/5/2025,0,0,1,0
+P-6ee18678,42,Male,HOSP1,RTC(511).png,Root Canal/RTC(511).png,Root Canal,8/3/2022,0,0,1,0
+P-6ee18678,42,Male,HOSP1,Crowned(39).png,Crowned/Crowned(39).png,Crowned,7/5/2022,0,1,0,0
+P-6ee18678,42,Male,HOSP1,RTC(118).png,Root Canal/RTC(118).png,Root Canal,20-04-23,0,0,1,0
+P-cd06903b,42,Male,HOSP1,Healthy(1297).png,Healthy/Healthy(1297).png,Healthy,10/9/2022,0,0,0,1
+P-cd06903b,42,Male,HOSP1,Caries(258).png,Caries/Caries(258).png,Caries,6/6/2023,1,0,0,0
+P-cd06903b,42,Male,HOSP1,Caries(13).png,Caries/Caries(13).png,Caries,18-05-24,1,0,0,0
+P-fdf5c7f6,28,Female,HOSP1,RTC(1108).png,Root Canal/RTC(1108).png,Root Canal,10/12/2022,0,0,1,0
+P-fdf5c7f6,28,Female,HOSP1,Healthy(1092).png,Healthy/Healthy(1092).png,Healthy,9/7/2024,0,0,0,1
+P-fdf5c7f6,28,Female,HOSP1,Healthy(175).png,Healthy/Healthy(175).png,Healthy,8/10/2024,0,0,0,1
+P-dff632a1,17,Female,HOSP1,RTC(1493).png,Root Canal/RTC(1493).png,Root Canal,16-01-23,0,0,1,0
+P-dff632a1,17,Female,HOSP1,Caries(458).png,Caries/Caries(458).png,Caries,6/11/2023,1,0,0,0
+P-dff632a1,17,Female,HOSP1,RTC(2424).png,Root Canal/RTC(2424).png,Root Canal,19-12-23,0,0,1,0
+P-525709a4,30,Female,HOSP1,Healthy(396).png,Healthy/Healthy(396).png,Healthy,26-01-22,0,0,0,1
+P-525709a4,30,Female,HOSP1,Healthy(734).png,Healthy/Healthy(734).png,Healthy,21-12-22,0,0,0,1
+P-525709a4,30,Female,HOSP1,RTC(165).png,Root Canal/RTC(165).png,Root Canal,23-07-24,0,0,1,0
+P-19cd0b64,17,Male,HOSP1,Crowned(219).png,Crowned/Crowned(219).png,Crowned,31-03-23,0,1,0,0
+P-19cd0b64,17,Male,HOSP1,RTC(704).png,Root Canal/RTC(704).png,Root Canal,16-11-24,0,0,1,0
+P-1dc05867,13,Female,HOSP1,RTC(601).png,Root Canal/RTC(601).png,Root Canal,16-01-24,0,0,1,0
+P-28b9797f,55,Male,HOSP1,Caries(274).png,Caries/Caries(274).png,Caries,12/5/2022,1,0,0,0
+P-28b9797f,55,Male,HOSP1,Crowned(551).png,Crowned/Crowned(551).png,Crowned,10/7/2024,0,1,0,0
+P-efc82ec6,85,Male,HOSP1,Crowned(714).png,Crowned/Crowned(714).png,Crowned,9/6/2022,0,1,0,0
+P-efc82ec6,85,Male,HOSP1,Healthy(1165).png,Healthy/Healthy(1165).png,Healthy,4/9/2023,0,0,0,1
+P-efc82ec6,85,Male,HOSP1,Healthy(1275).png,Healthy/Healthy(1275).png,Healthy,20-11-23,0,0,0,1
+P-5cbf096f,53,Female,HOSP1,Caries(304).png,Caries/Caries(304).png,Caries,14-01-24,1,0,0,0
+P-5cbf096f,53,Female,HOSP1,Healthy(1205).png,Healthy/Healthy(1205).png,Healthy,29-06-24,0,0,0,1
+P-16c8c342,77,Female,HOSP1,RTC(2269).png,Root Canal/RTC(2269).png,Root Canal,24-11-22,0,0,1,0
+P-16c8c342,77,Female,HOSP1,RTC(2242).png,Root Canal/RTC(2242).png,Root Canal,13-03-25,0,0,1,0
+P-14d51c71,56,Female,HOSP1,Healthy(1161).png,Healthy/Healthy(1161).png,Healthy,16-10-22,0,0,0,1
+P-14d51c71,56,Female,HOSP1,RTC(1451).png,Root Canal/RTC(1451).png,Root Canal,31-07-23,0,0,1,0
+P-f1c0d699,61,Female,HOSP1,Caries(507).png,Caries/Caries(507).png,Caries,10/7/2023,1,0,0,0
+P-f1c0d699,61,Female,HOSP1,RTC(1945).png,Root Canal/RTC(1945).png,Root Canal,6/3/2024,0,0,1,0
+P-f1c0d699,61,Female,HOSP1,Healthy(658).png,Healthy/Healthy(658).png,Healthy,13-01-25,0,0,0,1
+P-9249e6d3,79,Female,HOSP1,Healthy(822).png,Healthy/Healthy(822).png,Healthy,28-05-22,0,0,0,1
+P-9249e6d3,79,Female,HOSP1,Healthy(844).png,Healthy/Healthy(844).png,Healthy,13-11-22,0,0,0,1
+P-cdb15b34,78,Male,HOSP1,RTC(8).png,Root Canal/RTC(8).png,Root Canal,17-09-22,0,0,1,0
+P-cdb15b34,78,Male,HOSP1,Healthy(226).png,Healthy/Healthy(226).png,Healthy,4/4/2023,0,0,0,1
+P-8e478f30,58,Male,HOSP1,Crowned(263).png,Crowned/Crowned(263).png,Crowned,11/4/2022,0,1,0,0
+P-8e478f30,58,Male,HOSP1,Healthy(419).png,Healthy/Healthy(419).png,Healthy,11/11/2023,0,0,0,1
+P-6194a68c,32,Male,HOSP1,Caries(480).png,Caries/Caries(480).png,Caries,11/3/2025,1,0,0,0
+P-3860ba35,59,Male,HOSP1,Caries(520).png,Caries/Caries(520).png,Caries,20-06-24,1,0,0,0
+P-fe66b4f7,63,Male,HOSP1,Healthy(1317).png,Healthy/Healthy(1317).png,Healthy,10/5/2022,0,0,0,1
+P-fe66b4f7,63,Male,HOSP1,RTC(2095).png,Root Canal/RTC(2095).png,Root Canal,17-04-25,0,0,1,0
+P-e8b27bd6,28,Male,HOSP1,RTC(1949).png,Root Canal/RTC(1949).png,Root Canal,25-04-22,0,0,1,0
+P-e8b27bd6,28,Male,HOSP1,Healthy(384).png,Healthy/Healthy(384).png,Healthy,31-10-24,0,0,0,1
+P-97889ae7,78,Male,HOSP1,RTC(1724).png,Root Canal/RTC(1724).png,Root Canal,16-11-23,0,0,1,0
+P-97889ae7,78,Male,HOSP1,RTC(78).png,Root Canal/RTC(78).png,Root Canal,17-01-24,0,0,1,0
+P-d06bf6c3,42,Male,HOSP1,Crowned(20).png,Crowned/Crowned(20).png,Crowned,17-08-22,0,1,0,0
+P-d06bf6c3,42,Male,HOSP1,RTC(1095).png,Root Canal/RTC(1095).png,Root Canal,23-07-23,0,0,1,0
+P-57103a5c,61,Male,HOSP1,Caries(281).png,Caries/Caries(281).png,Caries,6/11/2022,1,0,0,0
+P-57103a5c,61,Male,HOSP1,RTC(209).png,Root Canal/RTC(209).png,Root Canal,12/5/2024,0,0,1,0
+P-4e640773,29,Female,HOSP1,RTC(1146).png,Root Canal/RTC(1146).png,Root Canal,15-04-22,0,0,1,0
+P-4e640773,29,Female,HOSP1,Caries(554).png,Caries/Caries(554).png,Caries,29-03-25,1,0,0,0
+P-e6b5a6fa,43,Female,HOSP1,RTC(1704).png,Root Canal/RTC(1704).png,Root Canal,1/12/2022,0,0,1,0
+P-e6b5a6fa,43,Female,HOSP1,Caries(215).png,Caries/Caries(215).png,Caries,10/4/2023,1,0,0,0
+P-9d943366,28,Male,HOSP1,RTC(1002).png,Root Canal/RTC(1002).png,Root Canal,8/3/2022,0,0,1,0
+P-9d943366,28,Male,HOSP1,Caries(460).png,Caries/Caries(460).png,Caries,14-11-24,1,0,0,0
+P-9d943366,28,Male,HOSP1,RTC(1817).png,Root Canal/RTC(1817).png,Root Canal,23-03-25,0,0,1,0
+P-3bc74455,33,Female,HOSP1,RTC(556).png,Root Canal/RTC(556).png,Root Canal,18-11-24,0,0,1,0
+P-47930a20,83,Female,HOSP1,RTC(926).png,Root Canal/RTC(926).png,Root Canal,23-07-22,0,0,1,0
+P-47930a20,83,Female,HOSP1,Caries(42).png,Caries/Caries(42).png,Caries,24-04-24,1,0,0,0
+P-f9470bd4,20,Female,HOSP1,Healthy(1309).png,Healthy/Healthy(1309).png,Healthy,2/1/2023,0,0,0,1
+P-38d587e5,26,Male,HOSP1,RTC(40).png,Root Canal/RTC(40).png,Root Canal,3/5/2024,0,0,1,0
+P-896c0c89,52,Male,HOSP1,Crowned(540).png,Crowned/Crowned(540).png,Crowned,17-06-23,0,1,0,0
+P-896c0c89,52,Male,HOSP1,RTC(915).png,Root Canal/RTC(915).png,Root Canal,10/2/2024,0,0,1,0
+P-896c0c89,52,Male,HOSP1,Crowned(503).png,Crowned/Crowned(503).png,Crowned,1/5/2025,0,1,0,0
+P-8cd356a0,12,Female,HOSP1,Healthy(92).png,Healthy/Healthy(92).png,Healthy,15-08-24,0,0,0,1
+P-265d2990,36,Male,HOSP1,RTC(498).png,Root Canal/RTC(498).png,Root Canal,6/9/2022,0,0,1,0
+P-265d2990,36,Male,HOSP1,Healthy(1323).png,Healthy/Healthy(1323).png,Healthy,25-03-24,0,0,0,1
+P-46ff756c,28,Male,HOSP1,Crowned(716).png,Crowned/Crowned(716).png,Crowned,3/3/2022,0,1,0,0
+P-46ff756c,28,Male,HOSP1,Healthy(250).png,Healthy/Healthy(250).png,Healthy,27-07-22,0,0,0,1
+P-000c8b58,71,Female,HOSP1,RTC(2114).png,Root Canal/RTC(2114).png,Root Canal,5/2/2022,0,0,1,0
+P-000c8b58,71,Female,HOSP1,Crowned(578).png,Crowned/Crowned(578).png,Crowned,15-12-24,0,1,0,0
+P-3c3a7049,22,Female,HOSP1,Healthy(382).png,Healthy/Healthy(382).png,Healthy,11/2/2022,0,0,0,1
+P-3c3a7049,22,Female,HOSP1,Healthy(807).png,Healthy/Healthy(807).png,Healthy,20-12-24,0,0,0,1
+P-12331c63,62,Female,HOSP1,Healthy(1091).png,Healthy/Healthy(1091).png,Healthy,25-03-23,0,0,0,1
+P-12331c63,62,Female,HOSP1,Healthy(1028).png,Healthy/Healthy(1028).png,Healthy,9/8/2023,0,0,0,1
+P-57302cce,79,Male,HOSP1,RTC(806).png,Root Canal/RTC(806).png,Root Canal,21-07-23,0,0,1,0
+P-57302cce,79,Male,HOSP1,RTC(402).png,Root Canal/RTC(402).png,Root Canal,21-04-24,0,0,1,0
+P-2b8c4e92,72,Female,HOSP1,Healthy(399).png,Healthy/Healthy(399).png,Healthy,7/10/2023,0,0,0,1
+P-2b8c4e92,72,Female,HOSP1,RTC(1631).png,Root Canal/RTC(1631).png,Root Canal,3/5/2024,0,0,1,0
+P-61d1e23b,52,Male,HOSP1,RTC(1363).png,Root Canal/RTC(1363).png,Root Canal,16-11-22,0,0,1,0
+P-61d1e23b,52,Male,HOSP1,Healthy(955).png,Healthy/Healthy(955).png,Healthy,14-05-23,0,0,0,1
+P-7cf9d61b,71,Female,HOSP1,RTC(266).png,Root Canal/RTC(266).png,Root Canal,17-11-24,0,0,1,0
+P-29015526,76,Male,HOSP1,Crowned(168).png,Crowned/Crowned(168).png,Crowned,13-08-23,0,1,0,0
+P-29015526,76,Male,HOSP1,RTC(954).png,Root Canal/RTC(954).png,Root Canal,29-03-25,0,0,1,0
+P-ba9c494b,76,Male,HOSP1,RTC(579).png,Root Canal/RTC(579).png,Root Canal,2/6/2023,0,0,1,0
+P-ba9c494b,76,Male,HOSP1,Healthy(548).png,Healthy/Healthy(548).png,Healthy,2/3/2025,0,0,0,1
+P-4f7ed509,80,Female,HOSP1,Healthy(403).png,Healthy/Healthy(403).png,Healthy,5/6/2024,0,0,0,1
+P-4f7ed509,80,Female,HOSP1,Healthy(1298).png,Healthy/Healthy(1298).png,Healthy,29-06-24,0,0,0,1
+P-61ad0d45,66,Female,HOSP1,Healthy(260).png,Healthy/Healthy(260).png,Healthy,11/9/2023,0,0,0,1
+P-61ad0d45,66,Female,HOSP1,RTC(2167).png,Root Canal/RTC(2167).png,Root Canal,13-03-24,0,0,1,0
+P-502a645e,41,Female,HOSP1,Caries(593).png,Caries/Caries(593).png,Caries,25-11-22,1,0,0,0
+P-7db44745,43,Female,HOSP1,Crowned(336).png,Crowned/Crowned(336).png,Crowned,8/3/2024,0,1,0,0
+P-197376b8,49,Male,HOSP1,RTC(890).png,Root Canal/RTC(890).png,Root Canal,1/10/2024,0,0,1,0
+P-197376b8,49,Male,HOSP1,Healthy(1234).png,Healthy/Healthy(1234).png,Healthy,18-02-25,0,0,0,1
+P-4bb17165,70,Female,HOSP1,Crowned(87).png,Crowned/Crowned(87).png,Crowned,2/8/2022,0,1,0,0
+P-e81df276,73,Female,HOSP1,Crowned(142).png,Crowned/Crowned(142).png,Crowned,25-07-22,0,1,0,0
+P-e81df276,73,Female,HOSP1,Healthy(556).png,Healthy/Healthy(556).png,Healthy,9/11/2023,0,0,0,1
+P-81c5c994,41,Male,HOSP1,Healthy(1006).png,Healthy/Healthy(1006).png,Healthy,14-01-22,0,0,0,1
+P-f8d32608,72,Male,HOSP1,RTC(1354).png,Root Canal/RTC(1354).png,Root Canal,11/3/2022,0,0,1,0
+P-f8d32608,72,Male,HOSP1,RTC(1076).png,Root Canal/RTC(1076).png,Root Canal,28-10-23,0,0,1,0
+P-e4fa6245,19,Male,HOSP1,RTC(1673).png,Root Canal/RTC(1673).png,Root Canal,22-01-24,0,0,1,0
+P-a8472572,44,Female,HOSP1,Crowned(762).png,Crowned/Crowned(762).png,Crowned,13-02-25,0,1,0,0
+P-cd412622,17,Male,HOSP1,Crowned(405).png,Crowned/Crowned(405).png,Crowned,5/8/2022,0,1,0,0
+P-6f2af1fe,30,Female,HOSP1,Healthy(200).png,Healthy/Healthy(200).png,Healthy,8/3/2024,0,0,0,1
+P-2c6055fb,76,Male,HOSP1,RTC(1923).png,Root Canal/RTC(1923).png,Root Canal,24-04-22,0,0,1,0
+P-2c6055fb,76,Male,HOSP1,Healthy(46).png,Healthy/Healthy(46).png,Healthy,14-05-25,0,0,0,1
+P-21919b95,85,Male,HOSP1,Healthy(53).png,Healthy/Healthy(53).png,Healthy,11/2/2022,0,0,0,1
+P-21919b95,85,Male,HOSP1,RTC(875).png,Root Canal/RTC(875).png,Root Canal,20-05-25,0,0,1,0
+P-3df4d83d,17,Male,HOSP1,RTC(1836).png,Root Canal/RTC(1836).png,Root Canal,26-07-22,0,0,1,0
+P-3df4d83d,17,Male,HOSP1,Caries(478).png,Caries/Caries(478).png,Caries,28-09-23,1,0,0,0
+P-54121b8d,79,Male,HOSP1,Healthy(1307).png,Healthy/Healthy(1307).png,Healthy,3/5/2025,0,0,0,1
+P-b5d0a533,83,Male,HOSP1,Crowned(32).png,Crowned/Crowned(32).png,Crowned,27-06-24,0,1,0,0
+P-fb4e443d,25,Female,HOSP1,RTC(464).png,Root Canal/RTC(464).png,Root Canal,29-03-24,0,0,1,0
+P-fb4e443d,25,Female,HOSP1,Caries(286).png,Caries/Caries(286).png,Caries,26-04-25,1,0,0,0
+P-dd32f7ab,42,Male,HOSP1,RTC(103).png,Root Canal/RTC(103).png,Root Canal,16-10-24,0,0,1,0
+P-42326df4,12,Male,HOSP1,RTC(603).png,Root Canal/RTC(603).png,Root Canal,5/2/2022,0,0,1,0
+P-42326df4,12,Male,HOSP1,RTC(2298).png,Root Canal/RTC(2298).png,Root Canal,14-06-22,0,0,1,0
+P-3be6cab4,72,Male,HOSP1,RTC(1008).png,Root Canal/RTC(1008).png,Root Canal,10/3/2022,0,0,1,0
+P-3be6cab4,72,Male,HOSP1,RTC(1573).png,Root Canal/RTC(1573).png,Root Canal,15-04-24,0,0,1,0
+P-1270fb80,72,Female,HOSP1,Healthy(10).png,Healthy/Healthy(10).png,Healthy,4/10/2024,0,0,0,1
+P-e2432f8f,63,Male,HOSP1,RTC(1741).png,Root Canal/RTC(1741).png,Root Canal,16-04-22,0,0,1,0
+P-e2432f8f,63,Male,HOSP1,Crowned(491).png,Crowned/Crowned(491).png,Crowned,15-09-22,0,1,0,0
+P-306fc098,28,Male,HOSP1,Crowned(684).png,Crowned/Crowned(684).png,Crowned,16-03-24,0,1,0,0
+P-73996476,17,Female,HOSP1,RTC(1558).png,Root Canal/RTC(1558).png,Root Canal,21-04-24,0,0,1,0
+P-db8ec73a,66,Male,HOSP1,Healthy(1443).png,Healthy/Healthy(1443).png,Healthy,28-04-22,0,0,0,1
+P-db8ec73a,66,Male,HOSP1,Healthy(1001).png,Healthy/Healthy(1001).png,Healthy,17-07-22,0,0,0,1
+P-cb9e0394,13,Male,HOSP1,RTC(733).png,Root Canal/RTC(733).png,Root Canal,29-12-22,0,0,1,0
+P-cb9e0394,13,Male,HOSP1,Caries(411).png,Caries/Caries(411).png,Caries,30-05-23,1,0,0,0
+P-316c424c,45,Female,HOSP1,RTC(594).png,Root Canal/RTC(594).png,Root Canal,25-11-22,0,0,1,0
+P-792cceec,45,Male,HOSP1,Healthy(1431).png,Healthy/Healthy(1431).png,Healthy,2/1/2022,0,0,0,1
+P-792cceec,45,Male,HOSP1,Crowned(691).png,Crowned/Crowned(691).png,Crowned,20-06-22,0,1,0,0
+P-8bb608f4,80,Female,HOSP1,RTC(1124).png,Root Canal/RTC(1124).png,Root Canal,10/1/2023,0,0,1,0
+P-5ca9b5c1,59,Female,HOSP1,Healthy(954).png,Healthy/Healthy(954).png,Healthy,12/5/2022,0,0,0,1
+P-5ca9b5c1,59,Female,HOSP1,RTC(1105).png,Root Canal/RTC(1105).png,Root Canal,31-10-22,0,0,1,0
+P-56af2371,71,Female,HOSP1,Healthy(477).png,Healthy/Healthy(477).png,Healthy,9/2/2024,0,0,0,1
+P-0a53dd8c,20,Male,HOSP1,Healthy(1358).png,Healthy/Healthy(1358).png,Healthy,17-07-22,0,0,0,1
+P-944392b3,43,Male,HOSP1,Healthy(1178).png,Healthy/Healthy(1178).png,Healthy,29-03-22,0,0,0,1
+P-c453dba7,54,Male,HOSP1,RTC(1698).png,Root Canal/RTC(1698).png,Root Canal,9/5/2025,0,0,1,0
+P-4a4c722f,83,Male,HOSP1,Healthy(980).png,Healthy/Healthy(980).png,Healthy,2/7/2023,0,0,0,1
+P-4a4c722f,83,Male,HOSP1,RTC(2059).png,Root Canal/RTC(2059).png,Root Canal,25-08-23,0,0,1,0
+P-7d66ad13,60,Male,HOSP1,Crowned(599).png,Crowned/Crowned(599).png,Crowned,13-02-22,0,1,0,0
+P-7d66ad13,60,Male,HOSP1,Healthy(264).png,Healthy/Healthy(264).png,Healthy,17-04-22,0,0,0,1
+P-e958379f,71,Female,HOSP1,RTC(2205).png,Root Canal/RTC(2205).png,Root Canal,22-08-23,0,0,1,0
+P-c87d4605,70,Female,HOSP1,RTC(656).png,Root Canal/RTC(656).png,Root Canal,6/5/2025,0,0,1,0
+P-939d2555,65,Male,HOSP1,RTC(370).png,Root Canal/RTC(370).png,Root Canal,19-02-23,0,0,1,0
+P-0e993bcd,38,Male,HOSP1,Crowned(650).png,Crowned/Crowned(650).png,Crowned,24-08-23,0,1,0,0
+P-b8dc1c9b,25,Female,HOSP1,RTC(1574).png,Root Canal/RTC(1574).png,Root Canal,31-07-23,0,0,1,0
+P-17529cf7,60,Female,HOSP1,Crowned(402).png,Crowned/Crowned(402).png,Crowned,15-01-23,0,1,0,0
+P-947fcfe3,21,Female,HOSP1,RTC(2407).png,Root Canal/RTC(2407).png,Root Canal,19-07-22,0,0,1,0
+P-947fcfe3,21,Female,HOSP1,Healthy(1105).png,Healthy/Healthy(1105).png,Healthy,16-03-25,0,0,0,1
+P-dd062178,17,Female,HOSP1,Crowned(414).png,Crowned/Crowned(414).png,Crowned,21-10-23,0,1,0,0
+P-2c781d60,84,Male,HOSP1,Crowned(115).png,Crowned/Crowned(115).png,Crowned,7/8/2023,0,1,0,0
+P-af492519,79,Male,HOSP1,Healthy(126).png,Healthy/Healthy(126).png,Healthy,30-05-22,0,0,0,1
+P-af492519,79,Male,HOSP1,RTC(1128).png,Root Canal/RTC(1128).png,Root Canal,30-05-25,0,0,1,0
+P-cef2456d,25,Female,HOSP1,Caries(22).png,Caries/Caries(22).png,Caries,12/11/2023,1,0,0,0
+P-cef2456d,25,Female,HOSP1,RTC(615).png,Root Canal/RTC(615).png,Root Canal,22-02-24,0,0,1,0
+P-0f4170d2,49,Male,HOSP1,RTC(1231).png,Root Canal/RTC(1231).png,Root Canal,1/9/2023,0,0,1,0
+P-0f4170d2,49,Male,HOSP1,Crowned(673).png,Crowned/Crowned(673).png,Crowned,1/2/2025,0,1,0,0
+P-53fdb8ee,60,Male,HOSP1,RTC(901).png,Root Canal/RTC(901).png,Root Canal,30-05-25,0,0,1,0
+P-d7df3dd0,24,Female,HOSP1,RTC(1665).png,Root Canal/RTC(1665).png,Root Canal,3/1/2024,0,0,1,0
+P-3dc4ff5c,69,Female,HOSP1,Caries(457).png,Caries/Caries(457).png,Caries,13-06-22,1,0,0,0
+P-3dc4ff5c,69,Female,HOSP1,RTC(917).png,Root Canal/RTC(917).png,Root Canal,3/7/2022,0,0,1,0
+P-970d1c90,42,Female,HOSP1,Healthy(216).png,Healthy/Healthy(216).png,Healthy,18-11-24,0,0,0,1
+P-970d1c90,42,Female,HOSP1,RTC(739).png,Root Canal/RTC(739).png,Root Canal,21-11-24,0,0,1,0
+P-646115bb,32,Female,HOSP1,Crowned(210).png,Crowned/Crowned(210).png,Crowned,13-08-22,0,1,0,0
+P-aa6c9800,43,Male,HOSP1,Healthy(22).png,Healthy/Healthy(22).png,Healthy,30-08-22,0,0,0,1
+P-aa6c9800,43,Male,HOSP1,Healthy(640).png,Healthy/Healthy(640).png,Healthy,18-09-23,0,0,0,1
+P-072965e3,38,Male,HOSP1,Caries(49).png,Caries/Caries(49).png,Caries,10/2/2024,1,0,0,0
+P-d6894c7c,50,Female,HOSP1,RTC(438).png,Root Canal/RTC(438).png,Root Canal,1/8/2024,0,0,1,0
+P-ecedf369,41,Male,HOSP1,RTC(440).png,Root Canal/RTC(440).png,Root Canal,23-04-22,0,0,1,0
+P-ecedf369,41,Male,HOSP1,Healthy(448).png,Healthy/Healthy(448).png,Healthy,25-03-25,0,0,0,1
+P-6f8e6728,11,Male,HOSP1,Healthy(104).png,Healthy/Healthy(104).png,Healthy,7/9/2023,0,0,0,1
+P-6f8e6728,11,Male,HOSP1,RTC(951).png,Root Canal/RTC(951).png,Root Canal,7/6/2024,0,0,1,0
+P-04ed88dd,13,Male,HOSP1,RTC(1064).png,Root Canal/RTC(1064).png,Root Canal,24-04-23,0,0,1,0
+P-6b26efca,41,Female,HOSP1,RTC(2176).png,Root Canal/RTC(2176).png,Root Canal,25-01-22,0,0,1,0
+P-6b26efca,41,Female,HOSP1,Healthy(1211).png,Healthy/Healthy(1211).png,Healthy,6/6/2022,0,0,0,1
+P-f54c7ac8,10,Female,HOSP1,Crowned(381).png,Crowned/Crowned(381).png,Crowned,29-12-22,0,1,0,0
+P-ae0af489,70,Male,HOSP1,RTC(879).png,Root Canal/RTC(879).png,Root Canal,6/3/2024,0,0,1,0
+P-ae0af489,70,Male,HOSP1,Crowned(576).png,Crowned/Crowned(576).png,Crowned,24-08-24,0,1,0,0
+P-cc281bd2,59,Female,HOSP1,Caries(297).png,Caries/Caries(297).png,Caries,10/4/2022,1,0,0,0
+P-27406ee5,12,Female,HOSP1,RTC(2329).png,Root Canal/RTC(2329).png,Root Canal,23-06-23,0,0,1,0
+P-c0522f80,69,Male,HOSP1,RTC(2172).png,Root Canal/RTC(2172).png,Root Canal,13-09-24,0,0,1,0
+P-c0522f80,69,Male,HOSP1,Caries(497).png,Caries/Caries(497).png,Caries,12/12/2024,1,0,0,0
+P-77bbeea0,34,Male,HOSP1,Healthy(961).png,Healthy/Healthy(961).png,Healthy,11/7/2023,0,0,0,1
+P-77bbeea0,34,Male,HOSP1,Healthy(85).png,Healthy/Healthy(85).png,Healthy,29-01-25,0,0,0,1
+P-299f712a,50,Male,HOSP1,Healthy(710).png,Healthy/Healthy(710).png,Healthy,17-03-24,0,0,0,1
+P-299f712a,50,Male,HOSP1,Healthy(1397).png,Healthy/Healthy(1397).png,Healthy,15-10-24,0,0,0,1
+P-046b9177,38,Male,HOSP1,Caries(168).png,Caries/Caries(168).png,Caries,17-07-24,1,0,0,0
+P-046b9177,38,Male,HOSP1,Healthy(757).png,Healthy/Healthy(757).png,Healthy,11/11/2024,0,0,0,1
+P-038a9141,41,Female,HOSP1,Healthy(724).png,Healthy/Healthy(724).png,Healthy,22-05-23,0,0,0,1
+P-038a9141,41,Female,HOSP1,Healthy(695).png,Healthy/Healthy(695).png,Healthy,25-05-23,0,0,0,1
+P-5dffb005,80,Female,HOSP1,Healthy(1292).png,Healthy/Healthy(1292).png,Healthy,19-06-23,0,0,0,1
+P-e6061067,33,Female,HOSP1,RTC(777).png,Root Canal/RTC(777).png,Root Canal,29-04-24,0,0,1,0
+P-ff5fde13,51,Male,HOSP1,RTC(2419).png,Root Canal/RTC(2419).png,Root Canal,13-02-24,0,0,1,0
+P-8b2aacba,45,Male,HOSP1,RTC(250).png,Root Canal/RTC(250).png,Root Canal,23-07-23,0,0,1,0
+P-cf923567,25,Male,HOSP1,RTC(2365).png,Root Canal/RTC(2365).png,Root Canal,28-02-24,0,0,1,0
+P-cf923567,25,Male,HOSP1,Healthy(1318).png,Healthy/Healthy(1318).png,Healthy,15-08-24,0,0,0,1
+P-7fd5bb1c,40,Female,HOSP1,RTC(2398).png,Root Canal/RTC(2398).png,Root Canal,27-08-23,0,0,1,0
+P-f042a8be,70,Female,HOSP1,RTC(1567).png,Root Canal/RTC(1567).png,Root Canal,12/1/2023,0,0,1,0
+P-f042a8be,70,Female,HOSP1,Caries(431).png,Caries/Caries(431).png,Caries,2/6/2023,1,0,0,0
+P-a1d41a79,20,Male,HOSP1,Crowned(751).png,Crowned/Crowned(751).png,Crowned,6/3/2023,0,1,0,0
+P-a1d41a79,20,Male,HOSP1,RTC(598).png,Root Canal/RTC(598).png,Root Canal,25-10-23,0,0,1,0
+P-54b25a43,60,Male,HOSP1,Caries(532).png,Caries/Caries(532).png,Caries,26-01-25,1,0,0,0
+P-b93585c0,43,Female,HOSP1,RTC(2185).png,Root Canal/RTC(2185).png,Root Canal,13-03-22,0,0,1,0
+P-813bcf1e,59,Male,HOSP1,Crowned(159).png,Crowned/Crowned(159).png,Crowned,4/3/2025,0,1,0,0
+P-f46b9c30,13,Male,HOSP1,Caries(14).png,Caries/Caries(14).png,Caries,17-06-24,1,0,0,0
+P-f46b9c30,13,Male,HOSP1,RTC(1530).png,Root Canal/RTC(1530).png,Root Canal,27-11-24,0,0,1,0
+P-ea66156e,78,Male,HOSP1,RTC(797).png,Root Canal/RTC(797).png,Root Canal,13-01-23,0,0,1,0
+P-a289d992,15,Male,HOSP1,RTC(1585).png,Root Canal/RTC(1585).png,Root Canal,18-02-23,0,0,1,0
+P-a289d992,15,Male,HOSP1,Healthy(115).png,Healthy/Healthy(115).png,Healthy,11/10/2023,0,0,0,1
+P-150fe438,68,Male,HOSP1,RTC(732).png,Root Canal/RTC(732).png,Root Canal,2/11/2024,0,0,1,0
+P-150fe438,68,Male,HOSP1,Crowned(406).png,Crowned/Crowned(406).png,Crowned,1/4/2025,0,1,0,0
+P-29ce748d,36,Female,HOSP1,RTC(791).png,Root Canal/RTC(791).png,Root Canal,26-02-24,0,0,1,0
+P-29ce748d,36,Female,HOSP1,RTC(2159).png,Root Canal/RTC(2159).png,Root Canal,19-04-24,0,0,1,0
+P-35e85340,27,Male,HOSP1,Healthy(450).png,Healthy/Healthy(450).png,Healthy,13-10-22,0,0,0,1
+P-35e85340,27,Male,HOSP1,RTC(1285).png,Root Canal/RTC(1285).png,Root Canal,30-06-24,0,0,1,0
+P-b99e110f,16,Female,HOSP1,Healthy(1196).png,Healthy/Healthy(1196).png,Healthy,26-01-25,0,0,0,1
+P-049027b7,40,Male,HOSP1,RTC(717).png,Root Canal/RTC(717).png,Root Canal,15-05-23,0,0,1,0
+P-049027b7,40,Male,HOSP1,Crowned(311).png,Crowned/Crowned(311).png,Crowned,17-08-24,0,1,0,0
+P-f2548c94,20,Male,HOSP1,RTC(2354).png,Root Canal/RTC(2354).png,Root Canal,13-10-24,0,0,1,0
+P-f2548c94,20,Male,HOSP1,Healthy(674).png,Healthy/Healthy(674).png,Healthy,29-11-24,0,0,0,1
+P-243b193b,18,Female,HOSP1,Healthy(896).png,Healthy/Healthy(896).png,Healthy,28-02-23,0,0,0,1
+P-3e03dfb9,18,Male,HOSP1,Crowned(777).png,Crowned/Crowned(777).png,Crowned,24-08-23,0,1,0,0
+P-e555f4d5,17,Male,HOSP1,Crowned(585).png,Crowned/Crowned(585).png,Crowned,9/9/2023,0,1,0,0
+P-e555f4d5,17,Male,HOSP1,Crowned(453).png,Crowned/Crowned(453).png,Crowned,25-01-24,0,1,0,0
+P-1449a9b9,45,Female,HOSP1,RTC(1925).png,Root Canal/RTC(1925).png,Root Canal,6/10/2023,0,0,1,0
+P-269adb95,60,Female,HOSP1,Crowned(471).png,Crowned/Crowned(471).png,Crowned,2/3/2024,0,1,0,0
+P-269adb95,60,Female,HOSP1,RTC(408).png,Root Canal/RTC(408).png,Root Canal,2/11/2024,0,0,1,0
+P-9d8e485a,45,Female,HOSP1,RTC(1396).png,Root Canal/RTC(1396).png,Root Canal,26-05-24,0,0,1,0
+P-60347dca,11,Female,HOSP1,RTC(466).png,Root Canal/RTC(466).png,Root Canal,29-06-23,0,0,1,0
+P-60347dca,11,Female,HOSP1,RTC(1321).png,Root Canal/RTC(1321).png,Root Canal,3/3/2025,0,0,1,0
+P-06bccdd1,34,Male,HOSP1,Crowned(149).png,Crowned/Crowned(149).png,Crowned,16-08-22,0,1,0,0
+P-06bccdd1,34,Male,HOSP1,RTC(2062).png,Root Canal/RTC(2062).png,Root Canal,1/12/2024,0,0,1,0
+P-8636ea57,59,Male,HOSP1,RTC(90).png,Root Canal/RTC(90).png,Root Canal,14-12-24,0,0,1,0
+P-8636ea57,59,Male,HOSP1,RTC(112).png,Root Canal/RTC(112).png,Root Canal,3/4/2025,0,0,1,0
+P-2c59ad1c,26,Female,HOSP1,RTC(1601).png,Root Canal/RTC(1601).png,Root Canal,16-06-23,0,0,1,0
+P-87db138e,14,Male,HOSP1,RTC(1233).png,Root Canal/RTC(1233).png,Root Canal,28-07-24,0,0,1,0
+P-87db138e,14,Male,HOSP1,RTC(391).png,Root Canal/RTC(391).png,Root Canal,1/1/2025,0,0,1,0
+P-f20edce4,55,Female,HOSP1,RTC(1434).png,Root Canal/RTC(1434).png,Root Canal,20-03-22,0,0,1,0
+P-f20edce4,55,Female,HOSP1,RTC(2349).png,Root Canal/RTC(2349).png,Root Canal,9/12/2024,0,0,1,0
+P-36dc0886,66,Male,HOSP1,RTC(838).png,Root Canal/RTC(838).png,Root Canal,27-05-23,0,0,1,0
+P-6ba535e3,54,Male,HOSP1,Healthy(89).png,Healthy/Healthy(89).png,Healthy,21-11-24,0,0,0,1
+P-e64f19e2,75,Male,HOSP1,RTC(306).png,Root Canal/RTC(306).png,Root Canal,29-08-22,0,0,1,0
+P-e64f19e2,75,Male,HOSP1,RTC(657).png,Root Canal/RTC(657).png,Root Canal,11/9/2023,0,0,1,0
+P-602d8c52,26,Female,HOSP1,Healthy(841).png,Healthy/Healthy(841).png,Healthy,1/5/2023,0,0,0,1
+P-1226d661,82,Female,HOSP1,RTC(1010).png,Root Canal/RTC(1010).png,Root Canal,23-10-22,0,0,1,0
+P-6d408476,45,Female,HOSP1,Caries(323).png,Caries/Caries(323).png,Caries,1/8/2024,1,0,0,0
+P-6d408476,45,Female,HOSP1,RTC(1276).png,Root Canal/RTC(1276).png,Root Canal,4/4/2025,0,0,1,0
+P-47eb54cf,84,Female,HOSP1,RTC(358).png,Root Canal/RTC(358).png,Root Canal,12/8/2024,0,0,1,0
+P-9cb0c606,68,Male,HOSP1,Crowned(513).png,Crowned/Crowned(513).png,Crowned,18-05-22,0,1,0,0
+P-5210eade,54,Male,HOSP1,Healthy(483).png,Healthy/Healthy(483).png,Healthy,31-07-23,0,0,0,1
+P-5210eade,54,Male,HOSP1,Crowned(242).png,Crowned/Crowned(242).png,Crowned,17-03-24,0,1,0,0
+P-0dbe0494,16,Male,HOSP1,Caries(389).png,Caries/Caries(389).png,Caries,1/7/2023,1,0,0,0
+P-0dbe0494,16,Male,HOSP1,Caries(508).png,Caries/Caries(508).png,Caries,31-10-23,1,0,0,0
+P-7e76b1aa,80,Male,HOSP1,RTC(159).png,Root Canal/RTC(159).png,Root Canal,30-09-22,0,0,1,0
+P-8f57756a,49,Female,HOSP1,Caries(324).png,Caries/Caries(324).png,Caries,9/2/2024,1,0,0,0
+P-5b2ca1dd,58,Male,HOSP1,RTC(1802).png,Root Canal/RTC(1802).png,Root Canal,23-03-23,0,0,1,0
+P-6abb2755,13,Female,HOSP1,Healthy(937).png,Healthy/Healthy(937).png,Healthy,28-07-22,0,0,0,1
+P-6abb2755,13,Female,HOSP1,Healthy(1042).png,Healthy/Healthy(1042).png,Healthy,25-07-23,0,0,0,1
+P-32a5b79a,85,Female,HOSP1,Crowned(25).png,Crowned/Crowned(25).png,Crowned,18-08-24,0,1,0,0
+P-4f315092,74,Female,HOSP1,Caries(150).png,Caries/Caries(150).png,Caries,16-02-23,1,0,0,0
+P-4f315092,74,Female,HOSP1,Caries(530).png,Caries/Caries(530).png,Caries,18-12-23,1,0,0,0
+P-93a90b4e,14,Male,HOSP1,RTC(1540).png,Root Canal/RTC(1540).png,Root Canal,22-11-22,0,0,1,0
+P-48d17894,66,Male,HOSP1,RTC(297).png,Root Canal/RTC(297).png,Root Canal,1/8/2022,0,0,1,0
+P-e2e9c2f7,10,Female,HOSP1,RTC(645).png,Root Canal/RTC(645).png,Root Canal,28-05-25,0,0,1,0
+P-def8da8c,80,Female,HOSP1,RTC(1394).png,Root Canal/RTC(1394).png,Root Canal,1/4/2022,0,0,1,0
+P-def8da8c,80,Female,HOSP1,Healthy(594).png,Healthy/Healthy(594).png,Healthy,5/5/2023,0,0,0,1
+P-09b56343,45,Female,HOSP1,Caries(449).png,Caries/Caries(449).png,Caries,17-05-22,1,0,0,0
+P-27426bd2,45,Female,HOSP1,Caries(106).png,Caries/Caries(106).png,Caries,9/1/2023,1,0,0,0
+P-27426bd2,45,Female,HOSP1,Healthy(956).png,Healthy/Healthy(956).png,Healthy,19-11-23,0,0,0,1
+P-85bd3ea3,29,Female,HOSP1,Healthy(1288).png,Healthy/Healthy(1288).png,Healthy,7/8/2022,0,0,0,1
+P-85bd3ea3,29,Female,HOSP1,RTC(812).png,Root Canal/RTC(812).png,Root Canal,8/2/2023,0,0,1,0
+P-377336b1,29,Female,HOSP1,RTC(1240).png,Root Canal/RTC(1240).png,Root Canal,5/1/2023,0,0,1,0
+P-377336b1,29,Female,HOSP1,RTC(1197).png,Root Canal/RTC(1197).png,Root Canal,13-11-24,0,0,1,0
+P-5299d68c,52,Female,HOSP1,Crowned(401).png,Crowned/Crowned(401).png,Crowned,29-09-24,0,1,0,0
+P-47bd8a57,37,Female,HOSP1,RTC(1578).png,Root Canal/RTC(1578).png,Root Canal,19-07-24,0,0,1,0
+P-69a4909c,34,Female,HOSP1,RTC(2296).png,Root Canal/RTC(2296).png,Root Canal,18-12-23,0,0,1,0
+P-d99ea84e,16,Female,HOSP1,RTC(2076).png,Root Canal/RTC(2076).png,Root Canal,30-08-24,0,0,1,0
+P-19919c86,22,Female,HOSP1,Healthy(1021).png,Healthy/Healthy(1021).png,Healthy,27-06-24,0,0,0,1
+P-ab35f218,64,Male,HOSP1,Healthy(587).png,Healthy/Healthy(587).png,Healthy,12/1/2022,0,0,0,1
+P-ab35f218,64,Male,HOSP1,RTC(872).png,Root Canal/RTC(872).png,Root Canal,9/12/2022,0,0,1,0
+P-21cc4d6c,48,Male,HOSP1,RTC(521).png,Root Canal/RTC(521).png,Root Canal,12/10/2023,0,0,1,0
+P-21cc4d6c,48,Male,HOSP1,RTC(1437).png,Root Canal/RTC(1437).png,Root Canal,26-02-25,0,0,1,0
+P-271704a7,58,Female,HOSP1,RTC(1735).png,Root Canal/RTC(1735).png,Root Canal,27-08-23,0,0,1,0
+P-a7f68673,27,Male,HOSP1,RTC(1749).png,Root Canal/RTC(1749).png,Root Canal,21-02-25,0,0,1,0
+P-86a5d9b7,65,Male,HOSP1,RTC(2339).png,Root Canal/RTC(2339).png,Root Canal,2/8/2023,0,0,1,0
+P-86a5d9b7,65,Male,HOSP1,Healthy(564).png,Healthy/Healthy(564).png,Healthy,23-09-23,0,0,0,1
+P-543362b2,45,Male,HOSP1,RTC(952).png,Root Canal/RTC(952).png,Root Canal,10/8/2024,0,0,1,0
+P-6cbaa6af,19,Female,HOSP1,Healthy(1261).png,Healthy/Healthy(1261).png,Healthy,10/6/2023,0,0,0,1
+P-6cbaa6af,19,Female,HOSP1,Healthy(1250).png,Healthy/Healthy(1250).png,Healthy,17-07-23,0,0,0,1
+P-908fb8df,53,Female,HOSP1,Crowned(505).png,Crowned/Crowned(505).png,Crowned,16-08-23,0,1,0,0
+P-908fb8df,53,Female,HOSP1,Healthy(537).png,Healthy/Healthy(537).png,Healthy,7/4/2025,0,0,0,1
+P-455d00ae,15,Female,HOSP1,Caries(115).png,Caries/Caries(115).png,Caries,16-10-24,1,0,0,0
+P-3982f60a,13,Female,HOSP1,Healthy(1265).png,Healthy/Healthy(1265).png,Healthy,11/3/2024,0,0,0,1
+P-042313aa,27,Male,HOSP1,RTC(2383).png,Root Canal/RTC(2383).png,Root Canal,10/5/2023,0,0,1,0
+P-dfb3dea9,26,Male,HOSP1,RTC(264).png,Root Canal/RTC(264).png,Root Canal,7/2/2025,0,0,1,0
+P-1ba8895c,42,Male,HOSP1,RTC(1127).png,Root Canal/RTC(1127).png,Root Canal,13-12-22,0,0,1,0
+P-1ba8895c,42,Male,HOSP1,Caries(400).png,Caries/Caries(400).png,Caries,13-01-23,1,0,0,0
+P-d0f392f7,12,Male,HOSP1,Crowned(238).png,Crowned/Crowned(238).png,Crowned,19-08-23,0,1,0,0
+P-6092e704,42,Female,HOSP1,RTC(992).png,Root Canal/RTC(992).png,Root Canal,12/4/2022,0,0,1,0
+P-6092e704,42,Female,HOSP1,Healthy(271).png,Healthy/Healthy(271).png,Healthy,3/5/2024,0,0,0,1
+P-9e1f8338,20,Female,HOSP1,Healthy(574).png,Healthy/Healthy(574).png,Healthy,9/4/2024,0,0,0,1
+P-67683e2a,16,Male,HOSP1,RTC(146).png,Root Canal/RTC(146).png,Root Canal,27-10-23,0,0,1,0
+P-67683e2a,16,Male,HOSP1,RTC(775).png,Root Canal/RTC(775).png,Root Canal,3/5/2024,0,0,1,0
+P-9be9c7cf,78,Male,HOSP1,Crowned(136).png,Crowned/Crowned(136).png,Crowned,10/12/2022,0,1,0,0
+P-9be9c7cf,78,Male,HOSP1,Healthy(923).png,Healthy/Healthy(923).png,Healthy,19-09-23,0,0,0,1
+P-bd815de0,76,Female,HOSP1,Caries(472).png,Caries/Caries(472).png,Caries,12/7/2024,1,0,0,0
+P-6b9a7606,57,Male,HOSP1,Healthy(1283).png,Healthy/Healthy(1283).png,Healthy,14-04-23,0,0,0,1
+P-0d3f59dd,73,Male,HOSP1,RTC(2230).png,Root Canal/RTC(2230).png,Root Canal,22-05-25,0,0,1,0
+P-b1da2eb1,32,Female,HOSP1,Crowned(511).png,Crowned/Crowned(511).png,Crowned,21-10-23,0,1,0,0
+P-b1da2eb1,32,Female,HOSP1,Caries(491).png,Caries/Caries(491).png,Caries,11/10/2024,1,0,0,0
+P-a838541a,18,Male,HOSP1,Healthy(422).png,Healthy/Healthy(422).png,Healthy,21-05-23,0,0,0,1
+P-a838541a,18,Male,HOSP1,RTC(1).png,Root Canal/RTC(1).png,Root Canal,3/1/2025,0,0,1,0
+P-f6023875,16,Male,HOSP1,Crowned(195).png,Crowned/Crowned(195).png,Crowned,27-06-23,0,1,0,0
+P-f6023875,16,Male,HOSP1,RTC(2104).png,Root Canal/RTC(2104).png,Root Canal,13-07-23,0,0,1,0
+P-6e08c652,33,Male,HOSP1,Healthy(38).png,Healthy/Healthy(38).png,Healthy,26-07-22,0,0,0,1
+P-a69893f0,27,Female,HOSP1,Crowned(104).png,Crowned/Crowned(104).png,Crowned,5/10/2023,0,1,0,0
+P-a69893f0,27,Female,HOSP1,Crowned(315).png,Crowned/Crowned(315).png,Crowned,28-04-24,0,1,0,0
+P-ff610500,20,Male,HOSP1,Healthy(1073).png,Healthy/Healthy(1073).png,Healthy,9/3/2022,0,0,0,1
+P-ff610500,20,Male,HOSP1,Caries(16).png,Caries/Caries(16).png,Caries,20-09-23,1,0,0,0
+P-79cd1010,71,Female,HOSP1,RTC(1058).png,Root Canal/RTC(1058).png,Root Canal,13-08-24,0,0,1,0
+P-79cd1010,71,Female,HOSP1,RTC(855).png,Root Canal/RTC(855).png,Root Canal,18-05-25,0,0,1,0
+P-b313186d,34,Male,HOSP1,Crowned(365).png,Crowned/Crowned(365).png,Crowned,11/9/2023,0,1,0,0
+P-b313186d,34,Male,HOSP1,RTC(217).png,Root Canal/RTC(217).png,Root Canal,8/4/2025,0,0,1,0
+P-6d8e9b47,51,Male,HOSP1,Crowned(234).png,Crowned/Crowned(234).png,Crowned,6/10/2022,0,1,0,0
+P-1fa123da,77,Female,HOSP1,Caries(422).png,Caries/Caries(422).png,Caries,22-11-22,1,0,0,0
+P-1fa123da,77,Female,HOSP1,Healthy(1060).png,Healthy/Healthy(1060).png,Healthy,2/4/2023,0,0,0,1
+P-0462ad75,52,Male,HOSP1,RTC(515).png,Root Canal/RTC(515).png,Root Canal,24-03-22,0,0,1,0
+P-0462ad75,52,Male,HOSP1,Healthy(865).png,Healthy/Healthy(865).png,Healthy,2/1/2025,0,0,0,1
+P-1e502a2d,27,Female,HOSP1,RTC(1633).png,Root Canal/RTC(1633).png,Root Canal,29-08-23,0,0,1,0
+P-d4d3137c,48,Male,HOSP1,Crowned(756).png,Crowned/Crowned(756).png,Crowned,19-08-22,0,1,0,0
+P-d4d3137c,48,Male,HOSP1,Crowned(358).png,Crowned/Crowned(358).png,Crowned,15-03-25,0,1,0,0
+P-9447ce94,13,Male,HOSP1,RTC(1145).png,Root Canal/RTC(1145).png,Root Canal,13-01-22,0,0,1,0
+P-9447ce94,13,Male,HOSP1,Caries(534).png,Caries/Caries(534).png,Caries,23-01-22,1,0,0,0
+P-b9d3eb59,53,Female,HOSP1,Healthy(576).png,Healthy/Healthy(576).png,Healthy,24-02-24,0,0,0,1
+P-37ec0046,26,Male,HOSP1,RTC(533).png,Root Canal/RTC(533).png,Root Canal,12/4/2022,0,0,1,0
+P-37ec0046,26,Male,HOSP1,Caries(481).png,Caries/Caries(481).png,Caries,25-07-22,1,0,0,0
+P-e6db4a0c,37,Male,HOSP1,Crowned(740).png,Crowned/Crowned(740).png,Crowned,30-04-22,0,1,0,0
+P-e6db4a0c,37,Male,HOSP1,Healthy(1238).png,Healthy/Healthy(1238).png,Healthy,1/12/2024,0,0,0,1
+P-0aa8087a,73,Female,HOSP1,Caries(383).png,Caries/Caries(383).png,Caries,4/11/2024,1,0,0,0
+P-13993308,42,Female,HOSP1,RTC(471).png,Root Canal/RTC(471).png,Root Canal,30-01-24,0,0,1,0
+P-b37692b7,53,Male,HOSP1,RTC(1476).png,Root Canal/RTC(1476).png,Root Canal,6/4/2023,0,0,1,0
+P-3a254c54,41,Male,HOSP1,Healthy(333).png,Healthy/Healthy(333).png,Healthy,2/2/2023,0,0,0,1
+P-d11143f2,61,Male,HOSP1,Crowned(119).png,Crowned/Crowned(119).png,Crowned,29-10-23,0,1,0,0
+P-d11143f2,61,Male,HOSP1,Crowned(68).png,Crowned/Crowned(68).png,Crowned,23-08-24,0,1,0,0
+P-0ec35d44,59,Female,HOSP1,RTC(2364).png,Root Canal/RTC(2364).png,Root Canal,29-01-23,0,0,1,0
+P-5cc7238d,43,Female,HOSP1,Healthy(1002).png,Healthy/Healthy(1002).png,Healthy,3/5/2022,0,0,0,1
+P-5cc7238d,43,Female,HOSP1,Caries(371).png,Caries/Caries(371).png,Caries,26-03-24,1,0,0,0
+P-fca38aea,31,Male,HOSP1,Healthy(585).png,Healthy/Healthy(585).png,Healthy,28-06-24,0,0,0,1
+P-fca38aea,31,Male,HOSP1,Crowned(245).png,Crowned/Crowned(245).png,Crowned,28-09-24,0,1,0,0
+P-8fc09f79,30,Female,HOSP1,Crowned(649).png,Crowned/Crowned(649).png,Crowned,10/7/2023,0,1,0,0
+P-8fc09f79,30,Female,HOSP1,Healthy(1083).png,Healthy/Healthy(1083).png,Healthy,6/11/2023,0,0,0,1
+P-15ffacba,14,Male,HOSP1,RTC(345).png,Root Canal/RTC(345).png,Root Canal,11/2/2024,0,0,1,0
+P-6d7b3220,56,Male,HOSP1,RTC(29).png,Root Canal/RTC(29).png,Root Canal,9/10/2024,0,0,1,0
+P-f10c29f5,24,Female,HOSP1,Healthy(1133).png,Healthy/Healthy(1133).png,Healthy,28-12-22,0,0,0,1
+P-f10c29f5,24,Female,HOSP1,RTC(74).png,Root Canal/RTC(74).png,Root Canal,27-03-24,0,0,1,0
+P-d54b31d6,61,Male,HOSP1,Caries(126).png,Caries/Caries(126).png,Caries,2/3/2022,1,0,0,0
+P-d54b31d6,61,Male,HOSP1,RTC(1184).png,Root Canal/RTC(1184).png,Root Canal,2/6/2023,0,0,1,0
+P-4e9d88a3,23,Female,HOSP1,RTC(1399).png,Root Canal/RTC(1399).png,Root Canal,19-12-23,0,0,1,0
+P-42b904b9,60,Female,HOSP1,RTC(1079).png,Root Canal/RTC(1079).png,Root Canal,17-11-24,0,0,1,0
+P-e6844976,62,Male,HOSP1,Healthy(882).png,Healthy/Healthy(882).png,Healthy,12/8/2022,0,0,0,1
+P-e6844976,62,Male,HOSP1,Crowned(766).png,Crowned/Crowned(766).png,Crowned,23-09-23,0,1,0,0
+P-18f9e031,75,Female,HOSP1,RTC(1745).png,Root Canal/RTC(1745).png,Root Canal,26-12-22,0,0,1,0
+P-18f9e031,75,Female,HOSP1,RTC(2324).png,Root Canal/RTC(2324).png,Root Canal,10/7/2023,0,0,1,0
+P-6133e123,54,Male,HOSP1,Healthy(900).png,Healthy/Healthy(900).png,Healthy,29-10-22,0,0,0,1
+P-80a330ee,23,Male,HOSP1,RTC(2136).png,Root Canal/RTC(2136).png,Root Canal,30-10-22,0,0,1,0
+P-80a330ee,23,Male,HOSP1,Healthy(495).png,Healthy/Healthy(495).png,Healthy,30-03-23,0,0,0,1
+P-50a58a57,43,Female,HOSP1,RTC(605).png,Root Canal/RTC(605).png,Root Canal,28-05-23,0,0,1,0
+P-de519583,63,Male,HOSP1,RTC(1223).png,Root Canal/RTC(1223).png,Root Canal,4/11/2024,0,0,1,0
+P-de519583,63,Male,HOSP1,RTC(490).png,Root Canal/RTC(490).png,Root Canal,14-12-24,0,0,1,0
+P-ad984860,38,Male,HOSP1,RTC(1542).png,Root Canal/RTC(1542).png,Root Canal,11/7/2022,0,0,1,0
+P-9816b430,66,Female,HOSP1,RTC(2003).png,Root Canal/RTC(2003).png,Root Canal,2/11/2023,0,0,1,0
+P-df0f253f,56,Male,HOSP1,Healthy(1312).png,Healthy/Healthy(1312).png,Healthy,25-08-22,0,0,0,1
+P-89da9547,63,Male,HOSP1,Caries(393).png,Caries/Caries(393).png,Caries,9/8/2023,1,0,0,0
+P-89da9547,63,Male,HOSP1,Crowned(601).png,Crowned/Crowned(601).png,Crowned,25-07-24,0,1,0,0
+P-6a0a8ebe,13,Male,HOSP1,Caries(316).png,Caries/Caries(316).png,Caries,7/8/2024,1,0,0,0
+P-1e9aacf8,15,Male,HOSP1,RTC(794).png,Root Canal/RTC(794).png,Root Canal,24-06-23,0,0,1,0
+P-8b322240,10,Female,HOSP1,Crowned(370).png,Crowned/Crowned(370).png,Crowned,1/10/2022,0,1,0,0
+P-8b322240,10,Female,HOSP1,RTC(730).png,Root Canal/RTC(730).png,Root Canal,19-08-24,0,0,1,0
+P-d080cb84,42,Male,HOSP1,Crowned(428).png,Crowned/Crowned(428).png,Crowned,22-02-24,0,1,0,0
+P-d080cb84,42,Male,HOSP1,RTC(2309).png,Root Canal/RTC(2309).png,Root Canal,17-02-25,0,0,1,0
+P-346e46fb,66,Female,HOSP1,RTC(1336).png,Root Canal/RTC(1336).png,Root Canal,2/4/2024,0,0,1,0
+P-346e46fb,66,Female,HOSP1,RTC(1190).png,Root Canal/RTC(1190).png,Root Canal,21-05-24,0,0,1,0
+P-707537eb,61,Female,HOSP1,Healthy(244).png,Healthy/Healthy(244).png,Healthy,30-12-23,0,0,0,1
+P-88835873,56,Male,HOSP1,Caries(71).png,Caries/Caries(71).png,Caries,11/4/2022,1,0,0,0
+P-2568bd94,24,Male,HOSP1,Crowned(690).png,Crowned/Crowned(690).png,Crowned,17-10-24,0,1,0,0
+P-bbc546ef,12,Female,HOSP1,RTC(537).png,Root Canal/RTC(537).png,Root Canal,22-02-22,0,0,1,0
+P-bbc546ef,12,Female,HOSP1,Caries(53).png,Caries/Caries(53).png,Caries,27-09-24,1,0,0,0
+P-86cc4101,70,Male,HOSP1,RTC(681).png,Root Canal/RTC(681).png,Root Canal,13-04-25,0,0,1,0
+P-a483f0b1,22,Male,HOSP1,RTC(1589).png,Root Canal/RTC(1589).png,Root Canal,11/3/2022,0,0,1,0
+P-a483f0b1,22,Male,HOSP1,Crowned(198).png,Crowned/Crowned(198).png,Crowned,14-11-24,0,1,0,0
+P-323679d9,25,Male,HOSP1,Caries(79).png,Caries/Caries(79).png,Caries,5/7/2024,1,0,0,0
+P-50a508b0,71,Male,HOSP1,RTC(140).png,Root Canal/RTC(140).png,Root Canal,11/3/2025,0,0,1,0
+P-35146e06,60,Male,HOSP1,RTC(939).png,Root Canal/RTC(939).png,Root Canal,9/2/2022,0,0,1,0
+P-35146e06,60,Male,HOSP1,Healthy(1319).png,Healthy/Healthy(1319).png,Healthy,12/3/2025,0,0,0,1
+P-317806ba,74,Female,HOSP1,RTC(1142).png,Root Canal/RTC(1142).png,Root Canal,18-05-23,0,0,1,0
+P-317806ba,74,Female,HOSP1,RTC(1586).png,Root Canal/RTC(1586).png,Root Canal,2/3/2025,0,0,1,0
+P-a42a2856,37,Female,HOSP1,RTC(83).png,Root Canal/RTC(83).png,Root Canal,26-07-23,0,0,1,0
+P-a42a2856,37,Female,HOSP1,RTC(2054).png,Root Canal/RTC(2054).png,Root Canal,15-11-24,0,0,1,0
+P-b21b1006,51,Male,HOSP1,RTC(1915).png,Root Canal/RTC(1915).png,Root Canal,13-05-23,0,0,1,0
+P-b21b1006,51,Male,HOSP1,RTC(799).png,Root Canal/RTC(799).png,Root Canal,9/3/2024,0,0,1,0
+P-a19bca3c,21,Male,HOSP1,Crowned(437).png,Crowned/Crowned(437).png,Crowned,14-07-22,0,1,0,0
+P-a19bca3c,21,Male,HOSP1,Healthy(1243).png,Healthy/Healthy(1243).png,Healthy,17-11-24,0,0,0,1
+P-d1664f7b,20,Female,HOSP1,Healthy(593).png,Healthy/Healthy(593).png,Healthy,4/5/2024,0,0,0,1
+P-d1664f7b,20,Female,HOSP1,Crowned(739).png,Crowned/Crowned(739).png,Crowned,7/10/2024,0,1,0,0
+P-43191177,16,Female,HOSP1,Healthy(760).png,Healthy/Healthy(760).png,Healthy,22-03-22,0,0,0,1
+P-7b01be43,34,Female,HOSP1,Healthy(915).png,Healthy/Healthy(915).png,Healthy,18-10-22,0,0,0,1
+P-7b01be43,34,Female,HOSP1,RTC(428).png,Root Canal/RTC(428).png,Root Canal,30-06-23,0,0,1,0
+P-72bd8e30,24,Female,HOSP1,Healthy(911).png,Healthy/Healthy(911).png,Healthy,7/10/2022,0,0,0,1
+P-8147cc0b,75,Female,HOSP1,Crowned(42).png,Crowned/Crowned(42).png,Crowned,10/9/2022,0,1,0,0
+P-8c7b4231,15,Female,HOSP1,RTC(967).png,Root Canal/RTC(967).png,Root Canal,14-05-22,0,0,1,0
+P-8c7b4231,15,Female,HOSP1,Crowned(92).png,Crowned/Crowned(92).png,Crowned,4/1/2023,0,1,0,0
+P-d4bfcb1e,10,Male,HOSP1,RTC(1482).png,Root Canal/RTC(1482).png,Root Canal,15-10-24,0,0,1,0
+P-d4bfcb1e,10,Male,HOSP1,Crowned(197).png,Crowned/Crowned(197).png,Crowned,17-10-24,0,1,0,0
+P-f212c6b3,15,Female,HOSP1,Healthy(786).png,Healthy/Healthy(786).png,Healthy,25-12-22,0,0,0,1
+P-a0362bf9,71,Male,HOSP1,RTC(2097).png,Root Canal/RTC(2097).png,Root Canal,7/8/2023,0,0,1,0
+P-14e506c7,65,Male,HOSP1,Crowned(717).png,Crowned/Crowned(717).png,Crowned,28-08-23,0,1,0,0
+P-2e8202a9,35,Female,HOSP1,RTC(625).png,Root Canal/RTC(625).png,Root Canal,3/11/2022,0,0,1,0
+P-5cb445d6,18,Female,HOSP1,Healthy(1207).png,Healthy/Healthy(1207).png,Healthy,27-02-23,0,0,0,1
+P-5cb445d6,18,Female,HOSP1,RTC(1537).png,Root Canal/RTC(1537).png,Root Canal,22-02-25,0,0,1,0
+P-55bd3c38,76,Female,HOSP1,Healthy(1424).png,Healthy/Healthy(1424).png,Healthy,17-11-23,0,0,0,1
+P-0aa27626,15,Female,HOSP1,RTC(548).png,Root Canal/RTC(548).png,Root Canal,1/8/2022,0,0,1,0
+P-0aa27626,15,Female,HOSP1,RTC(1777).png,Root Canal/RTC(1777).png,Root Canal,29-04-24,0,0,1,0
+P-7addcc4d,39,Female,HOSP1,Healthy(982).png,Healthy/Healthy(982).png,Healthy,11/11/2022,0,0,0,1
+P-7addcc4d,39,Female,HOSP1,RTC(1163).png,Root Canal/RTC(1163).png,Root Canal,2/7/2023,0,0,1,0
+P-156aa9c1,22,Female,HOSP1,Caries(174).png,Caries/Caries(174).png,Caries,1/9/2023,1,0,0,0
+P-156aa9c1,22,Female,HOSP1,Healthy(1419).png,Healthy/Healthy(1419).png,Healthy,30-10-24,0,0,0,1
+P-137b2a23,25,Female,HOSP1,Caries(542).png,Caries/Caries(542).png,Caries,1/5/2024,1,0,0,0
+P-137b2a23,25,Female,HOSP1,RTC(627).png,Root Canal/RTC(627).png,Root Canal,4/5/2025,0,0,1,0
+P-aefc0e23,22,Female,HOSP1,RTC(1533).png,Root Canal/RTC(1533).png,Root Canal,31-12-23,0,0,1,0
+P-aefc0e23,22,Female,HOSP1,RTC(2226).png,Root Canal/RTC(2226).png,Root Canal,4/9/2024,0,0,1,0
+P-f27bfbeb,11,Male,HOSP1,RTC(1427).png,Root Canal/RTC(1427).png,Root Canal,7/10/2022,0,0,1,0
+P-f27bfbeb,11,Male,HOSP1,Crowned(286).png,Crowned/Crowned(286).png,Crowned,28-11-22,0,1,0,0
+P-0594aa6d,19,Female,HOSP1,RTC(2250).png,Root Canal/RTC(2250).png,Root Canal,31-07-24,0,0,1,0
+P-0594aa6d,19,Female,HOSP1,Healthy(823).png,Healthy/Healthy(823).png,Healthy,10/1/2025,0,0,0,1
+P-bd400617,84,Male,HOSP1,Healthy(167).png,Healthy/Healthy(167).png,Healthy,13-08-24,0,0,0,1
+P-bd400617,84,Male,HOSP1,RTC(2338).png,Root Canal/RTC(2338).png,Root Canal,6/12/2024,0,0,1,0
+P-56ec2631,11,Male,HOSP1,RTC(2313).png,Root Canal/RTC(2313).png,Root Canal,6/6/2023,0,0,1,0
+P-56ec2631,11,Male,HOSP1,RTC(1623).png,Root Canal/RTC(1623).png,Root Canal,11/1/2025,0,0,1,0
+P-e68e976e,25,Female,HOSP1,RTC(222).png,Root Canal/RTC(222).png,Root Canal,26-06-23,0,0,1,0
+P-e68e976e,25,Female,HOSP1,RTC(2375).png,Root Canal/RTC(2375).png,Root Canal,18-10-24,0,0,1,0
+P-d074db3e,39,Female,HOSP1,Healthy(990).png,Healthy/Healthy(990).png,Healthy,27-01-24,0,0,0,1
+P-4f543a4a,30,Male,HOSP1,RTC(647).png,Root Canal/RTC(647).png,Root Canal,20-01-25,0,0,1,0
+P-5fb2a159,65,Female,HOSP1,Healthy(108).png,Healthy/Healthy(108).png,Healthy,4/1/2025,0,0,0,1
+P-638a5fbb,28,Female,HOSP1,RTC(691).png,Root Canal/RTC(691).png,Root Canal,17-04-23,0,0,1,0
+P-638a5fbb,28,Female,HOSP1,RTC(201).png,Root Canal/RTC(201).png,Root Canal,3/4/2025,0,0,1,0
+P-c662c5aa,64,Female,HOSP1,RTC(171).png,Root Canal/RTC(171).png,Root Canal,11/5/2024,0,0,1,0
+P-5ec93e04,53,Female,HOSP1,RTC(659).png,Root Canal/RTC(659).png,Root Canal,12/7/2023,0,0,1,0
+P-5ec93e04,53,Female,HOSP1,RTC(1555).png,Root Canal/RTC(1555).png,Root Canal,23-12-23,0,0,1,0
+P-b1d587dc,24,Female,HOSP1,Crowned(31).png,Crowned/Crowned(31).png,Crowned,3/11/2022,0,1,0,0
+P-516aa061,57,Male,HOSP1,RTC(2083).png,Root Canal/RTC(2083).png,Root Canal,15-04-22,0,0,1,0
+P-516aa061,57,Male,HOSP1,RTC(1754).png,Root Canal/RTC(1754).png,Root Canal,30-05-22,0,0,1,0
+P-97752f95,48,Female,HOSP1,Healthy(527).png,Healthy/Healthy(527).png,Healthy,23-09-22,0,0,0,1
+P-97752f95,48,Female,HOSP1,RTC(749).png,Root Canal/RTC(749).png,Root Canal,15-07-23,0,0,1,0
+P-b7aef6a3,25,Male,HOSP1,RTC(1622).png,Root Canal/RTC(1622).png,Root Canal,30-05-22,0,0,1,0
+P-b7aef6a3,25,Male,HOSP1,RTC(1884).png,Root Canal/RTC(1884).png,Root Canal,11/11/2022,0,0,1,0
+P-54903264,33,Male,HOSP1,RTC(978).png,Root Canal/RTC(978).png,Root Canal,21-01-24,0,0,1,0
+P-7225ec9e,69,Female,HOSP1,Healthy(566).png,Healthy/Healthy(566).png,Healthy,9/1/2024,0,0,0,1
+P-7225ec9e,69,Female,HOSP1,Healthy(1123).png,Healthy/Healthy(1123).png,Healthy,15-02-25,0,0,0,1
+P-b489c594,72,Male,HOSP1,Caries(533).png,Caries/Caries(533).png,Caries,25-08-22,1,0,0,0
+P-b489c594,72,Male,HOSP1,Healthy(1353).png,Healthy/Healthy(1353).png,Healthy,15-09-24,0,0,0,1
+P-cd373938,62,Male,HOSP1,Caries(265).png,Caries/Caries(265).png,Caries,8/11/2024,1,0,0,0
+P-ef8aa9ff,79,Male,HOSP1,Healthy(519).png,Healthy/Healthy(519).png,Healthy,31-10-23,0,0,0,1
+P-ef8aa9ff,79,Male,HOSP1,RTC(1718).png,Root Canal/RTC(1718).png,Root Canal,17-12-24,0,0,1,0
+P-4b0ecadd,26,Female,HOSP1,Caries(238).png,Caries/Caries(238).png,Caries,12/10/2024,1,0,0,0
+P-a6cb701a,27,Male,HOSP1,Crowned(94).png,Crowned/Crowned(94).png,Crowned,12/3/2022,0,1,0,0
+P-a1203deb,40,Male,HOSP1,RTC(1425).png,Root Canal/RTC(1425).png,Root Canal,15-01-25,0,0,1,0
+P-9d03c1c6,82,Female,HOSP1,RTC(268).png,Root Canal/RTC(268).png,Root Canal,28-02-22,0,0,1,0
+P-9d03c1c6,82,Female,HOSP1,Caries(163).png,Caries/Caries(163).png,Caries,17-02-23,1,0,0,0
+P-0abfa234,43,Male,HOSP2,Caries(583).png,Caries/Caries(583).png,Caries,16-03-23,1,0,0,0
+P-0abfa234,43,Male,HOSP2,Healthy(30).png,Healthy/Healthy(30).png,Healthy,15-05-24,0,0,0,1
+P-8dade95b,64,Male,HOSP2,Healthy(1445).png,Healthy/Healthy(1445).png,Healthy,10/3/2023,0,0,0,1
+P-876674db,29,Male,HOSP2,RTC(1268).png,Root Canal/RTC(1268).png,Root Canal,7/8/2024,0,0,1,0
+P-f54c5452,41,Male,HOSP2,Caries(251).png,Caries/Caries(251).png,Caries,24-12-23,1,0,0,0
+P-d0660832,60,Male,HOSP2,RTC(1662).png,Root Canal/RTC(1662).png,Root Canal,3/1/2024,0,0,1,0
+P-d0660832,60,Male,HOSP2,RTC(132).png,Root Canal/RTC(132).png,Root Canal,16-01-24,0,0,1,0
+P-8a42e7c6,46,Female,HOSP2,RTC(121).png,Root Canal/RTC(121).png,Root Canal,24-01-24,0,0,1,0
+P-8a42e7c6,46,Female,HOSP2,Healthy(248).png,Healthy/Healthy(248).png,Healthy,1/2/2025,0,0,0,1
+P-aa8a6ad0,18,Female,HOSP2,Caries(358).png,Caries/Caries(358).png,Caries,24-07-24,1,0,0,0
+P-79055331,11,Female,HOSP2,Caries(470).png,Caries/Caries(470).png,Caries,13-04-25,1,0,0,0
+P-4004225c,76,Female,HOSP2,Healthy(148).png,Healthy/Healthy(148).png,Healthy,20-02-23,0,0,0,1
+P-4004225c,76,Female,HOSP2,Healthy(1080).png,Healthy/Healthy(1080).png,Healthy,15-03-25,0,0,0,1
+P-8453f579,27,Male,HOSP2,Healthy(1371).png,Healthy/Healthy(1371).png,Healthy,4/6/2023,0,0,0,1
+P-8453f579,27,Male,HOSP2,RTC(1040).png,Root Canal/RTC(1040).png,Root Canal,20-02-24,0,0,1,0
+P-8453f579,27,Male,HOSP2,Healthy(1313).png,Healthy/Healthy(1313).png,Healthy,11/5/2025,0,0,0,1
+P-d0122f10,20,Male,HOSP2,RTC(1809).png,Root Canal/RTC(1809).png,Root Canal,27-07-24,0,0,1,0
+P-c6e6fccb,30,Male,HOSP2,Crowned(729).png,Crowned/Crowned(729).png,Crowned,13-08-23,0,1,0,0
+P-c6e6fccb,30,Male,HOSP2,Crowned(330).png,Crowned/Crowned(330).png,Crowned,31-12-23,0,1,0,0
+P-c6e6fccb,30,Male,HOSP2,RTC(2369).png,Root Canal/RTC(2369).png,Root Canal,5/4/2025,0,0,1,0
+P-7607e061,45,Female,HOSP2,Healthy(805).png,Healthy/Healthy(805).png,Healthy,20-04-23,0,0,0,1
+P-7607e061,45,Female,HOSP2,Healthy(560).png,Healthy/Healthy(560).png,Healthy,25-04-23,0,0,0,1
+P-a1ee9847,17,Male,HOSP2,Crowned(459).png,Crowned/Crowned(459).png,Crowned,10/3/2024,0,1,0,0
+P-61c4dc99,16,Female,HOSP2,Crowned(512).png,Crowned/Crowned(512).png,Crowned,14-08-23,0,1,0,0
+P-61c4dc99,16,Female,HOSP2,Crowned(321).png,Crowned/Crowned(321).png,Crowned,19-01-25,0,1,0,0
+P-58197afa,43,Male,HOSP2,RTC(44).png,Root Canal/RTC(44).png,Root Canal,3/4/2024,0,0,1,0
+P-58197afa,43,Male,HOSP2,Crowned(431).png,Crowned/Crowned(431).png,Crowned,29-09-24,0,1,0,0
+P-2b3956e2,84,Male,HOSP2,RTC(1743).png,Root Canal/RTC(1743).png,Root Canal,14-04-23,0,0,1,0
+P-3fe790c0,22,Male,HOSP2,RTC(2277).png,Root Canal/RTC(2277).png,Root Canal,30-09-24,0,0,1,0
+P-9ed1f8af,21,Male,HOSP2,Healthy(332).png,Healthy/Healthy(332).png,Healthy,21-04-24,0,0,0,1
+P-9ed1f8af,21,Male,HOSP2,RTC(62).png,Root Canal/RTC(62).png,Root Canal,12/5/2024,0,0,1,0
+P-9ed1f8af,21,Male,HOSP2,Crowned(770).png,Crowned/Crowned(770).png,Crowned,1/8/2024,0,1,0,0
+P-b8027513,82,Male,HOSP2,RTC(1182).png,Root Canal/RTC(1182).png,Root Canal,29-09-24,0,0,1,0
+P-b8027513,82,Male,HOSP2,RTC(482).png,Root Canal/RTC(482).png,Root Canal,13-05-25,0,0,1,0
+P-3f1e62e9,34,Female,HOSP2,RTC(686).png,Root Canal/RTC(686).png,Root Canal,29-12-23,0,0,1,0
+P-3f1e62e9,34,Female,HOSP2,Crowned(107).png,Crowned/Crowned(107).png,Crowned,7/2/2025,0,1,0,0
+P-d0164c60,16,Female,HOSP2,Healthy(833).png,Healthy/Healthy(833).png,Healthy,10/2/2023,0,0,0,1
+P-d0164c60,16,Female,HOSP2,Healthy(388).png,Healthy/Healthy(388).png,Healthy,24-04-24,0,0,0,1
+P-c98c93a0,80,Female,HOSP2,RTC(718).png,Root Canal/RTC(718).png,Root Canal,24-05-25,0,0,1,0
+P-6f15297b,83,Female,HOSP2,Healthy(337).png,Healthy/Healthy(337).png,Healthy,24-12-23,0,0,0,1
+P-6f15297b,83,Female,HOSP2,Caries(325).png,Caries/Caries(325).png,Caries,9/2/2024,1,0,0,0
+P-6f15297b,83,Female,HOSP2,RTC(1520).png,Root Canal/RTC(1520).png,Root Canal,28-11-24,0,0,1,0
+P-91cbc4f1,51,Male,HOSP2,Healthy(1076).png,Healthy/Healthy(1076).png,Healthy,1/5/2025,0,0,0,1
+P-989104a7,28,Male,HOSP2,Crowned(521).png,Crowned/Crowned(521).png,Crowned,1/2/2023,0,1,0,0
+P-44e82f2f,15,Male,HOSP2,RTC(514).png,Root Canal/RTC(514).png,Root Canal,25-12-23,0,0,1,0
+P-44e82f2f,15,Male,HOSP2,Healthy(920).png,Healthy/Healthy(920).png,Healthy,22-02-24,0,0,0,1
+P-44e82f2f,15,Male,HOSP2,RTC(2182).png,Root Canal/RTC(2182).png,Root Canal,20-03-25,0,0,1,0
+P-606f54c1,79,Male,HOSP2,RTC(267).png,Root Canal/RTC(267).png,Root Canal,24-05-23,0,0,1,0
+P-4e4ef275,39,Female,HOSP2,RTC(1831).png,Root Canal/RTC(1831).png,Root Canal,25-06-23,0,0,1,0
+P-4e4ef275,39,Female,HOSP2,Healthy(196).png,Healthy/Healthy(196).png,Healthy,22-03-24,0,0,0,1
+P-4e4ef275,39,Female,HOSP2,Caries(414).png,Caries/Caries(414).png,Caries,23-08-24,1,0,0,0
+P-5874fba9,31,Female,HOSP2,Crowned(663).png,Crowned/Crowned(663).png,Crowned,20-06-23,0,1,0,0
+P-5874fba9,31,Female,HOSP2,Caries(36).png,Caries/Caries(36).png,Caries,18-04-25,1,0,0,0
+P-384eee66,10,Female,HOSP2,RTC(1842).png,Root Canal/RTC(1842).png,Root Canal,9/2/2023,0,0,1,0
+P-384eee66,10,Female,HOSP2,Caries(182).png,Caries/Caries(182).png,Caries,25-06-23,1,0,0,0
+P-42ab5118,32,Male,HOSP2,Crowned(113).png,Crowned/Crowned(113).png,Crowned,5/3/2023,0,1,0,0
+P-42ab5118,32,Male,HOSP2,Healthy(1282).png,Healthy/Healthy(1282).png,Healthy,20-12-24,0,0,0,1
+P-9c08b486,76,Female,HOSP2,Healthy(847).png,Healthy/Healthy(847).png,Healthy,29-03-23,0,0,0,1
+P-9c08b486,76,Female,HOSP2,RTC(1230).png,Root Canal/RTC(1230).png,Root Canal,28-06-23,0,0,1,0
+P-9c08b486,76,Female,HOSP2,Healthy(1269).png,Healthy/Healthy(1269).png,Healthy,26-02-24,0,0,0,1
+P-0803a63a,59,Male,HOSP2,RTC(1811).png,Root Canal/RTC(1811).png,Root Canal,22-04-23,0,0,1,0
+P-0803a63a,59,Male,HOSP2,Crowned(79).png,Crowned/Crowned(79).png,Crowned,4/11/2024,0,1,0,0
+P-b0cd9c86,17,Male,HOSP2,RTC(2290).png,Root Canal/RTC(2290).png,Root Canal,31-03-24,0,0,1,0
+P-19e72df1,63,Female,HOSP2,Healthy(821).png,Healthy/Healthy(821).png,Healthy,26-03-23,0,0,0,1
+P-19e72df1,63,Female,HOSP2,RTC(1995).png,Root Canal/RTC(1995).png,Root Canal,7/6/2023,0,0,1,0
+P-4759068c,71,Female,HOSP2,Crowned(668).png,Crowned/Crowned(668).png,Crowned,29-10-23,0,1,0,0
+P-4759068c,71,Female,HOSP2,RTC(798).png,Root Canal/RTC(798).png,Root Canal,26-01-24,0,0,1,0
+P-8bdda929,81,Female,HOSP2,Healthy(1119).png,Healthy/Healthy(1119).png,Healthy,20-08-23,0,0,0,1
+P-8bdda929,81,Female,HOSP2,Healthy(218).png,Healthy/Healthy(218).png,Healthy,25-08-23,0,0,0,1
+P-8bdda929,81,Female,HOSP2,Crowned(5).png,Crowned/Crowned(5).png,Crowned,19-12-24,0,1,0,0
+P-4cf2aa68,39,Female,HOSP2,RTC(429).png,Root Canal/RTC(429).png,Root Canal,22-11-23,0,0,1,0
+P-4cf2aa68,39,Female,HOSP2,RTC(105).png,Root Canal/RTC(105).png,Root Canal,21-12-24,0,0,1,0
+P-4cf2aa68,39,Female,HOSP2,RTC(1938).png,Root Canal/RTC(1938).png,Root Canal,24-05-25,0,0,1,0
+P-e5e5c115,73,Male,HOSP2,Caries(211).png,Caries/Caries(211).png,Caries,16-11-24,1,0,0,0
+P-b957f07b,84,Female,HOSP2,Healthy(471).png,Healthy/Healthy(471).png,Healthy,29-08-23,0,0,0,1
+P-7be566cc,27,Male,HOSP2,Healthy(1112).png,Healthy/Healthy(1112).png,Healthy,22-05-23,0,0,0,1
+P-7be566cc,27,Male,HOSP2,Crowned(182).png,Crowned/Crowned(182).png,Crowned,2/6/2023,0,1,0,0
+P-7be566cc,27,Male,HOSP2,Crowned(597).png,Crowned/Crowned(597).png,Crowned,18-12-24,0,1,0,0
+P-27211bb4,54,Female,HOSP2,Healthy(181).png,Healthy/Healthy(181).png,Healthy,15-02-23,0,0,0,1
+P-27211bb4,54,Female,HOSP2,RTC(539).png,Root Canal/RTC(539).png,Root Canal,7/6/2024,0,0,1,0
+P-0f3fdb21,50,Male,HOSP2,Caries(345).png,Caries/Caries(345).png,Caries,23-05-23,1,0,0,0
+P-0f3fdb21,50,Male,HOSP2,RTC(1636).png,Root Canal/RTC(1636).png,Root Canal,27-01-25,0,0,1,0
+P-8c9c1533,63,Female,HOSP2,Healthy(615).png,Healthy/Healthy(615).png,Healthy,24-03-23,0,0,0,1
+P-8c9c1533,63,Female,HOSP2,RTC(211).png,Root Canal/RTC(211).png,Root Canal,26-12-23,0,0,1,0
+P-996004c5,26,Female,HOSP2,Healthy(29).png,Healthy/Healthy(29).png,Healthy,2/9/2024,0,0,0,1
+P-996004c5,26,Female,HOSP2,Crowned(489).png,Crowned/Crowned(489).png,Crowned,26-09-24,0,1,0,0
+P-0e5a6dbf,15,Male,HOSP2,RTC(2032).png,Root Canal/RTC(2032).png,Root Canal,10/7/2024,0,0,1,0
+P-0e5a6dbf,15,Male,HOSP2,RTC(357).png,Root Canal/RTC(357).png,Root Canal,29-05-25,0,0,1,0
+P-2dbd14d8,59,Male,HOSP2,Caries(474).png,Caries/Caries(474).png,Caries,28-01-24,1,0,0,0
+P-2dbd14d8,59,Male,HOSP2,Healthy(1146).png,Healthy/Healthy(1146).png,Healthy,2/4/2024,0,0,0,1
+P-6f291d57,77,Male,HOSP2,RTC(2331).png,Root Canal/RTC(2331).png,Root Canal,3/4/2024,0,0,1,0
+P-6f291d57,77,Male,HOSP2,Healthy(1341).png,Healthy/Healthy(1341).png,Healthy,17-12-24,0,0,0,1
+P-6f291d57,77,Male,HOSP2,RTC(979).png,Root Canal/RTC(979).png,Root Canal,22-12-24,0,0,1,0
+P-597740fa,42,Female,HOSP2,Crowned(648).png,Crowned/Crowned(648).png,Crowned,27-03-23,0,1,0,0
+P-597740fa,42,Female,HOSP2,RTC(1273).png,Root Canal/RTC(1273).png,Root Canal,19-05-24,0,0,1,0
+P-bdcacb27,56,Male,HOSP2,Healthy(379).png,Healthy/Healthy(379).png,Healthy,23-02-23,0,0,0,1
+P-bdcacb27,56,Male,HOSP2,RTC(712).png,Root Canal/RTC(712).png,Root Canal,9/11/2023,0,0,1,0
+P-bdcacb27,56,Male,HOSP2,RTC(1615).png,Root Canal/RTC(1615).png,Root Canal,8/12/2024,0,0,1,0
+P-62cac8ad,64,Female,HOSP2,Caries(204).png,Caries/Caries(204).png,Caries,18-04-24,1,0,0,0
+P-62e9039e,79,Female,HOSP2,RTC(168).png,Root Canal/RTC(168).png,Root Canal,4/11/2023,0,0,1,0
+P-62e9039e,79,Female,HOSP2,RTC(340).png,Root Canal/RTC(340).png,Root Canal,11/10/2024,0,0,1,0
+P-62e9039e,79,Female,HOSP2,RTC(225).png,Root Canal/RTC(225).png,Root Canal,7/2/2025,0,0,1,0
+P-70a04168,68,Female,HOSP2,RTC(1410).png,Root Canal/RTC(1410).png,Root Canal,15-02-23,0,0,1,0
+P-70a04168,68,Female,HOSP2,Caries(143).png,Caries/Caries(143).png,Caries,23-02-23,1,0,0,0
+P-70a04168,68,Female,HOSP2,RTC(719).png,Root Canal/RTC(719).png,Root Canal,14-07-23,0,0,1,0
+P-78fe4b4d,49,Female,HOSP2,Caries(446).png,Caries/Caries(446).png,Caries,19-06-23,1,0,0,0
+P-78fe4b4d,49,Female,HOSP2,RTC(2413).png,Root Canal/RTC(2413).png,Root Canal,9/3/2025,0,0,1,0
+P-4cf718f1,77,Female,HOSP2,Caries(576).png,Caries/Caries(576).png,Caries,23-01-23,1,0,0,0
+P-4cf718f1,77,Female,HOSP2,Crowned(570).png,Crowned/Crowned(570).png,Crowned,1/2/2023,0,1,0,0
+P-10a76598,18,Male,HOSP2,RTC(943).png,Root Canal/RTC(943).png,Root Canal,19-07-24,0,0,1,0
+P-5c9761f8,70,Male,HOSP2,RTC(1524).png,Root Canal/RTC(1524).png,Root Canal,3/10/2023,0,0,1,0
+P-5c9761f8,70,Male,HOSP2,RTC(2178).png,Root Canal/RTC(2178).png,Root Canal,1/1/2024,0,0,1,0
+P-07a150c3,71,Female,HOSP2,RTC(2355).png,Root Canal/RTC(2355).png,Root Canal,21-04-25,0,0,1,0
+P-07a150c3,71,Female,HOSP2,Healthy(252).png,Healthy/Healthy(252).png,Healthy,3/5/2025,0,0,0,1
+P-b55695f9,53,Male,HOSP2,Caries(27).png,Caries/Caries(27).png,Caries,4/6/2024,1,0,0,0
+P-b55695f9,53,Male,HOSP2,RTC(2078).png,Root Canal/RTC(2078).png,Root Canal,8/5/2025,0,0,1,0
+P-1d4033c1,79,Male,HOSP2,Healthy(501).png,Healthy/Healthy(501).png,Healthy,5/1/2023,0,0,0,1
+P-1d4033c1,79,Male,HOSP2,RTC(365).png,Root Canal/RTC(365).png,Root Canal,4/5/2024,0,0,1,0
+P-1d4033c1,79,Male,HOSP2,Healthy(162).png,Healthy/Healthy(162).png,Healthy,1/6/2024,0,0,0,1
+P-130aa0a6,83,Female,HOSP2,RTC(1299).png,Root Canal/RTC(1299).png,Root Canal,25-06-23,0,0,1,0
+P-130aa0a6,83,Female,HOSP2,Crowned(526).png,Crowned/Crowned(526).png,Crowned,10/10/2023,0,1,0,0
+P-1a4287b0,75,Male,HOSP2,RTC(1249).png,Root Canal/RTC(1249).png,Root Canal,24-02-23,0,0,1,0
+P-1a4287b0,75,Male,HOSP2,Crowned(743).png,Crowned/Crowned(743).png,Crowned,26-05-24,0,1,0,0
+P-1a4287b0,75,Male,HOSP2,RTC(17).png,Root Canal/RTC(17).png,Root Canal,20-06-24,0,0,1,0
+P-1a79b834,27,Female,HOSP2,Caries(401).png,Caries/Caries(401).png,Caries,24-03-24,1,0,0,0
+P-1a79b834,27,Female,HOSP2,Caries(148).png,Caries/Caries(148).png,Caries,24-04-25,1,0,0,0
+P-7e28a468,64,Male,HOSP2,Crowned(171).png,Crowned/Crowned(171).png,Crowned,16-01-23,0,1,0,0
+P-2dcea186,35,Male,HOSP2,Caries(54).png,Caries/Caries(54).png,Caries,25-06-24,1,0,0,0
+P-ea46ab97,70,Male,HOSP2,Healthy(360).png,Healthy/Healthy(360).png,Healthy,18-08-24,0,0,0,1
+P-ea46ab97,70,Male,HOSP2,Crowned(448).png,Crowned/Crowned(448).png,Crowned,31-05-25,0,1,0,0
+P-2c9440e2,60,Female,HOSP2,Healthy(292).png,Healthy/Healthy(292).png,Healthy,12/2/2023,0,0,0,1
+P-2c9440e2,60,Female,HOSP2,RTC(769).png,Root Canal/RTC(769).png,Root Canal,21-07-24,0,0,1,0
+P-0dd2b831,83,Female,HOSP2,Crowned(624).png,Crowned/Crowned(624).png,Crowned,19-02-24,0,1,0,0
+P-0dd2b831,83,Female,HOSP2,RTC(260).png,Root Canal/RTC(260).png,Root Canal,23-04-24,0,0,1,0
+P-a4cd0dbe,40,Male,HOSP2,Healthy(267).png,Healthy/Healthy(267).png,Healthy,20-02-23,0,0,0,1
+P-a4cd0dbe,40,Male,HOSP2,Crowned(139).png,Crowned/Crowned(139).png,Crowned,25-07-24,0,1,0,0
+P-e4aff1b7,25,Female,HOSP2,RTC(638).png,Root Canal/RTC(638).png,Root Canal,28-10-23,0,0,1,0
+P-b64fd4af,58,Male,HOSP2,Healthy(1007).png,Healthy/Healthy(1007).png,Healthy,20-04-23,0,0,0,1
+P-b64fd4af,58,Male,HOSP2,Crowned(158).png,Crowned/Crowned(158).png,Crowned,7/4/2025,0,1,0,0
+P-fee23791,37,Female,HOSP2,RTC(327).png,Root Canal/RTC(327).png,Root Canal,19-10-24,0,0,1,0
+P-c4aed55b,84,Male,HOSP2,Healthy(1449).png,Healthy/Healthy(1449).png,Healthy,20-05-24,0,0,0,1
+P-b1d5d5aa,56,Female,HOSP2,RTC(2336).png,Root Canal/RTC(2336).png,Root Canal,29-01-23,0,0,1,0
+P-b1d5d5aa,56,Female,HOSP2,RTC(67).png,Root Canal/RTC(67).png,Root Canal,13-09-23,0,0,1,0
+P-dd52f5ef,81,Female,HOSP2,RTC(723).png,Root Canal/RTC(723).png,Root Canal,5/4/2024,0,0,1,0
+P-dd52f5ef,81,Female,HOSP2,RTC(405).png,Root Canal/RTC(405).png,Root Canal,14-05-25,0,0,1,0
+P-7c91cf70,42,Male,HOSP2,Healthy(6).png,Healthy/Healthy(6).png,Healthy,24-12-24,0,0,0,1
+P-7c91cf70,42,Male,HOSP2,Healthy(675).png,Healthy/Healthy(675).png,Healthy,15-01-25,0,0,0,1
+P-3e27a8bb,26,Male,HOSP2,RTC(1947).png,Root Canal/RTC(1947).png,Root Canal,11/3/2023,0,0,1,0
+P-5c0b53c6,79,Male,HOSP2,RTC(667).png,Root Canal/RTC(667).png,Root Canal,3/3/2024,0,0,1,0
+P-5c0b53c6,79,Male,HOSP2,RTC(1688).png,Root Canal/RTC(1688).png,Root Canal,29-07-24,0,0,1,0
+P-a654a4a7,34,Male,HOSP2,RTC(298).png,Root Canal/RTC(298).png,Root Canal,13-03-24,0,0,1,0
+P-a654a4a7,34,Male,HOSP2,Caries(602).png,Caries/Caries(602).png,Caries,28-02-25,1,0,0,0
+P-d59dfd6f,78,Male,HOSP2,RTC(2409).png,Root Canal/RTC(2409).png,Root Canal,14-06-23,0,0,1,0
+P-d59dfd6f,78,Male,HOSP2,RTC(1116).png,Root Canal/RTC(1116).png,Root Canal,29-05-24,0,0,1,0
+P-00ab133f,36,Male,HOSP2,RTC(570).png,Root Canal/RTC(570).png,Root Canal,10/1/2025,0,0,1,0
+P-27d15e5d,61,Female,HOSP2,RTC(20).png,Root Canal/RTC(20).png,Root Canal,17-06-23,0,0,1,0
+P-27d15e5d,61,Female,HOSP2,RTC(658).png,Root Canal/RTC(658).png,Root Canal,20-09-23,0,0,1,0
+P-8eeae2bd,47,Female,HOSP2,RTC(474).png,Root Canal/RTC(474).png,Root Canal,20-09-24,0,0,1,0
+P-8eeae2bd,47,Female,HOSP2,Caries(441).png,Caries/Caries(441).png,Caries,6/10/2024,1,0,0,0
+P-19f651fe,26,Male,HOSP2,Crowned(318).png,Crowned/Crowned(318).png,Crowned,11/9/2024,0,1,0,0
+P-19f651fe,26,Male,HOSP2,Caries(234).png,Caries/Caries(234).png,Caries,12/12/2024,1,0,0,0
+P-9568f94a,80,Female,HOSP2,RTC(368).png,Root Canal/RTC(368).png,Root Canal,7/10/2024,0,0,1,0
+P-95b73eef,27,Male,HOSP2,RTC(1651).png,Root Canal/RTC(1651).png,Root Canal,30-09-24,0,0,1,0
+P-95b73eef,27,Male,HOSP2,Healthy(708).png,Healthy/Healthy(708).png,Healthy,13-03-25,0,0,0,1
+P-8b4e3096,51,Female,HOSP2,RTC(2134).png,Root Canal/RTC(2134).png,Root Canal,6/2/2023,0,0,1,0
+P-8b4e3096,51,Female,HOSP2,Healthy(1468).png,Healthy/Healthy(1468).png,Healthy,19-03-24,0,0,0,1
+P-4a2ab2e6,39,Male,HOSP2,Crowned(346).png,Crowned/Crowned(346).png,Crowned,13-05-24,0,1,0,0
+P-50bc5f88,37,Male,HOSP2,RTC(236).png,Root Canal/RTC(236).png,Root Canal,29-06-23,0,0,1,0
+P-50bc5f88,37,Male,HOSP2,RTC(550).png,Root Canal/RTC(550).png,Root Canal,17-01-24,0,0,1,0
+P-99e0d686,29,Male,HOSP2,RTC(2200).png,Root Canal/RTC(2200).png,Root Canal,23-04-24,0,0,1,0
+P-99e0d686,29,Male,HOSP2,Healthy(856).png,Healthy/Healthy(856).png,Healthy,28-12-24,0,0,0,1
+P-de7f3bbc,20,Female,HOSP2,RTC(1027).png,Root Canal/RTC(1027).png,Root Canal,22-09-24,0,0,1,0
+P-c99730e0,16,Female,HOSP2,RTC(324).png,Root Canal/RTC(324).png,Root Canal,24-06-24,0,0,1,0
+P-c99730e0,16,Female,HOSP2,Crowned(539).png,Crowned/Crowned(539).png,Crowned,2/4/2025,0,1,0,0
+P-0393b77c,37,Male,HOSP2,Crowned(477).png,Crowned/Crowned(477).png,Crowned,5/1/2024,0,1,0,0
+P-0393b77c,37,Male,HOSP2,Healthy(41).png,Healthy/Healthy(41).png,Healthy,12/3/2025,0,0,0,1
+P-db66a010,79,Female,HOSP2,RTC(2175).png,Root Canal/RTC(2175).png,Root Canal,10/2/2024,0,0,1,0
+P-db66a010,79,Female,HOSP2,RTC(1672).png,Root Canal/RTC(1672).png,Root Canal,1/3/2024,0,0,1,0
+P-3f0020f6,76,Male,HOSP2,RTC(1097).png,Root Canal/RTC(1097).png,Root Canal,29-07-23,0,0,1,0
+P-8829a17a,25,Female,HOSP2,Healthy(634).png,Healthy/Healthy(634).png,Healthy,3/7/2024,0,0,0,1
+P-310b7c05,14,Female,HOSP2,Caries(191).png,Caries/Caries(191).png,Caries,17-01-24,1,0,0,0
+P-d7c1153b,44,Male,HOSP2,RTC(631).png,Root Canal/RTC(631).png,Root Canal,9/9/2024,0,0,1,0
+P-d7c1153b,44,Male,HOSP2,Caries(146).png,Caries/Caries(146).png,Caries,11/9/2024,1,0,0,0
+P-79ffff89,12,Female,HOSP2,Crowned(707).png,Crowned/Crowned(707).png,Crowned,26-05-23,0,1,0,0
+P-6860164a,63,Male,HOSP2,RTC(1338).png,Root Canal/RTC(1338).png,Root Canal,13-02-24,0,0,1,0
+P-aac7feea,85,Female,HOSP2,Healthy(453).png,Healthy/Healthy(453).png,Healthy,21-06-24,0,0,0,1
+P-a9b9a322,30,Male,HOSP2,RTC(683).png,Root Canal/RTC(683).png,Root Canal,8/7/2024,0,0,1,0
+P-f7d58d86,75,Female,HOSP2,Caries(165).png,Caries/Caries(165).png,Caries,25-02-25,1,0,0,0
+P-7b15a570,65,Male,HOSP2,RTC(566).png,Root Canal/RTC(566).png,Root Canal,8/4/2024,0,0,1,0
+P-7b15a570,65,Male,HOSP2,Healthy(965).png,Healthy/Healthy(965).png,Healthy,18-09-24,0,0,0,1
+P-2f7c5d98,51,Male,HOSP2,Healthy(1143).png,Healthy/Healthy(1143).png,Healthy,8/2/2024,0,0,0,1
+P-2f7c5d98,51,Male,HOSP2,RTC(388).png,Root Canal/RTC(388).png,Root Canal,10/10/2024,0,0,1,0
+P-b08154fc,81,Female,HOSP2,RTC(2170).png,Root Canal/RTC(2170).png,Root Canal,19-04-23,0,0,1,0
+P-713b48e3,18,Female,HOSP2,Healthy(731).png,Healthy/Healthy(731).png,Healthy,12/12/2023,0,0,0,1
+P-713b48e3,18,Female,HOSP2,Healthy(201).png,Healthy/Healthy(201).png,Healthy,19-04-24,0,0,0,1
+P-221db3c0,62,Male,HOSP2,RTC(650).png,Root Canal/RTC(650).png,Root Canal,7/1/2023,0,0,1,0
+P-221db3c0,62,Male,HOSP2,Crowned(319).png,Crowned/Crowned(319).png,Crowned,25-06-24,0,1,0,0
+P-b8f4972f,79,Female,HOSP2,Crowned(390).png,Crowned/Crowned(390).png,Crowned,12/11/2023,0,1,0,0
+P-b8f4972f,79,Female,HOSP2,Healthy(1218).png,Healthy/Healthy(1218).png,Healthy,17-03-25,0,0,0,1
+P-0d7d9991,42,Female,HOSP2,Caries(116).png,Caries/Caries(116).png,Caries,22-06-24,1,0,0,0
+P-e4b9e30c,45,Female,HOSP2,Caries(603).png,Caries/Caries(603).png,Caries,4/2/2023,1,0,0,0
+P-d3c291c4,81,Male,HOSP2,Healthy(633).png,Healthy/Healthy(633).png,Healthy,19-09-23,0,0,0,1
+P-d3c291c4,81,Male,HOSP2,RTC(1660).png,Root Canal/RTC(1660).png,Root Canal,23-09-23,0,0,1,0
+P-4cdaace0,17,Female,HOSP2,RTC(1032).png,Root Canal/RTC(1032).png,Root Canal,20-09-23,0,0,1,0
+P-4cdaace0,17,Female,HOSP2,Healthy(859).png,Healthy/Healthy(859).png,Healthy,11/8/2024,0,0,0,1
+P-f5c4abc1,80,Male,HOSP2,Healthy(106).png,Healthy/Healthy(106).png,Healthy,5/9/2024,0,0,0,1
+P-f5c4abc1,80,Male,HOSP2,RTC(1812).png,Root Canal/RTC(1812).png,Root Canal,7/11/2024,0,0,1,0
+P-910049d4,66,Male,HOSP2,Crowned(581).png,Crowned/Crowned(581).png,Crowned,14-10-24,0,1,0,0
+P-910049d4,66,Male,HOSP2,Caries(41).png,Caries/Caries(41).png,Caries,25-11-24,1,0,0,0
+P-1090b73f,16,Male,HOSP2,RTC(1666).png,Root Canal/RTC(1666).png,Root Canal,18-06-24,0,0,1,0
+P-1090b73f,16,Male,HOSP2,Healthy(1277).png,Healthy/Healthy(1277).png,Healthy,15-08-24,0,0,0,1
+P-0cf58fa4,60,Female,HOSP2,RTC(1960).png,Root Canal/RTC(1960).png,Root Canal,2/9/2024,0,0,1,0
+P-e7149975,13,Male,HOSP2,Caries(568).png,Caries/Caries(568).png,Caries,2/4/2023,1,0,0,0
+P-b488e33c,85,Male,HOSP2,Crowned(469).png,Crowned/Crowned(469).png,Crowned,28-05-23,0,1,0,0
+P-b488e33c,85,Male,HOSP2,RTC(827).png,Root Canal/RTC(827).png,Root Canal,12/8/2024,0,0,1,0
+P-23178804,25,Female,HOSP2,Crowned(366).png,Crowned/Crowned(366).png,Crowned,25-09-24,0,1,0,0
+P-c2f92564,26,Female,HOSP2,RTC(1872).png,Root Canal/RTC(1872).png,Root Canal,22-12-24,0,0,1,0
+P-22e0b889,26,Male,HOSP2,RTC(484).png,Root Canal/RTC(484).png,Root Canal,20-03-25,0,0,1,0
+P-4233557d,40,Female,HOSP2,Caries(233).png,Caries/Caries(233).png,Caries,6/10/2023,1,0,0,0
+P-4233557d,40,Female,HOSP2,Healthy(579).png,Healthy/Healthy(579).png,Healthy,25-10-24,0,0,0,1
+P-c4ea28f4,60,Female,HOSP2,RTC(1191).png,Root Canal/RTC(1191).png,Root Canal,12/11/2023,0,0,1,0
+P-9419a834,35,Female,HOSP2,Healthy(828).png,Healthy/Healthy(828).png,Healthy,10/3/2024,0,0,0,1
+P-9419a834,35,Female,HOSP2,Caries(243).png,Caries/Caries(243).png,Caries,2/12/2024,1,0,0,0
+P-fa18b84b,59,Male,HOSP2,RTC(1195).png,Root Canal/RTC(1195).png,Root Canal,14-05-24,0,0,1,0
+P-fa18b84b,59,Male,HOSP2,Caries(461).png,Caries/Caries(461).png,Caries,13-12-24,1,0,0,0
+P-6d574ae6,50,Male,HOSP2,RTC(1201).png,Root Canal/RTC(1201).png,Root Canal,20-11-24,0,0,1,0
+P-6d574ae6,50,Male,HOSP2,RTC(426).png,Root Canal/RTC(426).png,Root Canal,14-04-25,0,0,1,0
+P-4670eb7e,64,Female,HOSP2,RTC(1490).png,Root Canal/RTC(1490).png,Root Canal,28-11-23,0,0,1,0
+P-1325d52c,20,Male,HOSP2,RTC(1459).png,Root Canal/RTC(1459).png,Root Canal,8/1/2025,0,0,1,0
+P-1325d52c,20,Male,HOSP2,RTC(285).png,Root Canal/RTC(285).png,Root Canal,8/1/2025,0,0,1,0
+P-1fa55b39,53,Male,HOSP2,Healthy(330).png,Healthy/Healthy(330).png,Healthy,14-04-24,0,0,0,1
+P-68a3c564,67,Female,HOSP2,RTC(2180).png,Root Canal/RTC(2180).png,Root Canal,26-01-24,0,0,1,0
+P-68a3c564,67,Female,HOSP2,RTC(2411).png,Root Canal/RTC(2411).png,Root Canal,11/8/2024,0,0,1,0
+P-e5c58a78,24,Male,HOSP2,Crowned(340).png,Crowned/Crowned(340).png,Crowned,1/7/2023,0,1,0,0
+P-e5c58a78,24,Male,HOSP2,Caries(118).png,Caries/Caries(118).png,Caries,10/1/2024,1,0,0,0
+P-2a6b5898,24,Female,HOSP2,RTC(226).png,Root Canal/RTC(226).png,Root Canal,19-07-23,0,0,1,0
+P-2a6b5898,24,Female,HOSP2,RTC(2235).png,Root Canal/RTC(2235).png,Root Canal,4/1/2025,0,0,1,0
+P-9b04462a,66,Female,HOSP2,RTC(46).png,Root Canal/RTC(46).png,Root Canal,1/8/2023,0,0,1,0
+P-43219b80,28,Male,HOSP2,RTC(373).png,Root Canal/RTC(373).png,Root Canal,2/7/2023,0,0,1,0
+P-43219b80,28,Male,HOSP2,Crowned(202).png,Crowned/Crowned(202).png,Crowned,29-09-24,0,1,0,0
+P-aa585619,64,Male,HOSP2,RTC(253).png,Root Canal/RTC(253).png,Root Canal,28-04-25,0,0,1,0
+P-5240da8c,72,Male,HOSP2,RTC(2321).png,Root Canal/RTC(2321).png,Root Canal,13-05-23,0,0,1,0
+P-5240da8c,72,Male,HOSP2,RTC(1385).png,Root Canal/RTC(1385).png,Root Canal,15-03-24,0,0,1,0
+P-ede89480,71,Female,HOSP2,Healthy(703).png,Healthy/Healthy(703).png,Healthy,13-01-25,0,0,0,1
+P-2f7549bd,24,Male,HOSP2,RTC(2428).png,Root Canal/RTC(2428).png,Root Canal,28-04-25,0,0,1,0
+P-860c5163,40,Female,HOSP2,RTC(317).png,Root Canal/RTC(317).png,Root Canal,29-12-23,0,0,1,0
+P-cb8cac00,36,Female,HOSP2,RTC(54).png,Root Canal/RTC(54).png,Root Canal,1/5/2025,0,0,1,0
+P-407772db,10,Female,HOSP2,Healthy(521).png,Healthy/Healthy(521).png,Healthy,4/6/2024,0,0,0,1
+P-407772db,10,Female,HOSP2,RTC(1967).png,Root Canal/RTC(1967).png,Root Canal,22-09-24,0,0,1,0
+P-9cc3f1f9,67,Female,HOSP2,RTC(1963).png,Root Canal/RTC(1963).png,Root Canal,31-07-23,0,0,1,0
+P-4a53fcf4,50,Male,HOSP2,RTC(595).png,Root Canal/RTC(595).png,Root Canal,21-02-24,0,0,1,0
+P-c8b04a74,25,Male,HOSP2,Caries(161).png,Caries/Caries(161).png,Caries,14-11-24,1,0,0,0
+P-2358e63c,79,Male,HOSP2,RTC(2065).png,Root Canal/RTC(2065).png,Root Canal,22-10-23,0,0,1,0
+P-2358e63c,79,Male,HOSP2,RTC(911).png,Root Canal/RTC(911).png,Root Canal,15-03-25,0,0,1,0
+P-6ff33730,73,Male,HOSP2,RTC(37).png,Root Canal/RTC(37).png,Root Canal,27-03-24,0,0,1,0
+P-6ff33730,73,Male,HOSP2,Caries(159).png,Caries/Caries(159).png,Caries,5/9/2024,1,0,0,0
+P-682ddc0a,70,Female,HOSP2,RTC(1408).png,Root Canal/RTC(1408).png,Root Canal,19-05-25,0,0,1,0
+P-95fbd0b7,31,Male,HOSP2,Healthy(1239).png,Healthy/Healthy(1239).png,Healthy,9/10/2024,0,0,0,1
+P-2839d89f,29,Male,HOSP2,Healthy(1256).png,Healthy/Healthy(1256).png,Healthy,29-11-24,0,0,0,1
+P-92230c2d,52,Male,HOSP2,RTC(646).png,Root Canal/RTC(646).png,Root Canal,20-06-24,0,0,1,0
+P-92230c2d,52,Male,HOSP2,Crowned(426).png,Crowned/Crowned(426).png,Crowned,5/8/2024,0,1,0,0
+P-17ee140b,84,Male,HOSP2,RTC(772).png,Root Canal/RTC(772).png,Root Canal,23-05-23,0,0,1,0
+P-17ee140b,84,Male,HOSP2,Crowned(642).png,Crowned/Crowned(642).png,Crowned,5/4/2024,0,1,0,0
+P-b0ab98a8,47,Female,HOSP2,RTC(2412).png,Root Canal/RTC(2412).png,Root Canal,22-05-23,0,0,1,0
+P-4fd7a7a7,33,Female,HOSP2,Healthy(151).png,Healthy/Healthy(151).png,Healthy,8/2/2023,0,0,0,1
+P-4fd7a7a7,33,Female,HOSP2,Crowned(742).png,Crowned/Crowned(742).png,Crowned,11/4/2024,0,1,0,0
+P-0b1c2ea4,34,Female,HOSP2,RTC(2422).png,Root Canal/RTC(2422).png,Root Canal,14-03-23,0,0,1,0
+P-0b1c2ea4,34,Female,HOSP2,Healthy(1347).png,Healthy/Healthy(1347).png,Healthy,3/7/2023,0,0,0,1
+P-dae799d9,85,Male,HOSP2,RTC(2051).png,Root Canal/RTC(2051).png,Root Canal,25-02-24,0,0,1,0
+P-dae799d9,85,Male,HOSP2,Caries(438).png,Caries/Caries(438).png,Caries,19-04-25,1,0,0,0
+P-6f64a693,57,Male,HOSP2,RTC(2105).png,Root Canal/RTC(2105).png,Root Canal,4/1/2024,0,0,1,0
+P-6f64a693,57,Male,HOSP2,Healthy(1450).png,Healthy/Healthy(1450).png,Healthy,19-10-24,0,0,0,1
+P-71085df4,46,Male,HOSP2,RTC(307).png,Root Canal/RTC(307).png,Root Canal,11/2/2024,0,0,1,0
+P-71085df4,46,Male,HOSP2,Crowned(101).png,Crowned/Crowned(101).png,Crowned,5/7/2024,0,1,0,0
+P-fdf12d73,82,Male,HOSP2,RTC(2343).png,Root Canal/RTC(2343).png,Root Canal,6/7/2023,0,0,1,0
+P-fdf12d73,82,Male,HOSP2,Healthy(1023).png,Healthy/Healthy(1023).png,Healthy,11/10/2023,0,0,0,1
+P-0586e0fa,46,Male,HOSP2,Healthy(149).png,Healthy/Healthy(149).png,Healthy,16-05-23,0,0,0,1
+P-0586e0fa,46,Male,HOSP2,Crowned(285).png,Crowned/Crowned(285).png,Crowned,12/10/2024,0,1,0,0
+P-20ba278b,47,Male,HOSP2,Caries(538).png,Caries/Caries(538).png,Caries,26-02-23,1,0,0,0
+P-20ba278b,47,Male,HOSP2,RTC(807).png,Root Canal/RTC(807).png,Root Canal,22-09-23,0,0,1,0
+P-20158eac,63,Male,HOSP2,Healthy(1225).png,Healthy/Healthy(1225).png,Healthy,20-07-24,0,0,0,1
+P-20158eac,63,Male,HOSP2,RTC(985).png,Root Canal/RTC(985).png,Root Canal,27-08-24,0,0,1,0
+P-5ec45016,85,Female,HOSP2,RTC(291).png,Root Canal/RTC(291).png,Root Canal,22-04-24,0,0,1,0
+P-5ec45016,85,Female,HOSP2,RTC(2347).png,Root Canal/RTC(2347).png,Root Canal,1/11/2024,0,0,1,0
+P-89b42149,73,Female,HOSP2,Caries(525).png,Caries/Caries(525).png,Caries,9/12/2024,1,0,0,0
+P-89b42149,73,Female,HOSP2,Crowned(590).png,Crowned/Crowned(590).png,Crowned,24-02-25,0,1,0,0
+P-ba66bd6f,33,Male,HOSP2,RTC(1168).png,Root Canal/RTC(1168).png,Root Canal,23-08-23,0,0,1,0
+P-31097615,69,Female,HOSP2,Healthy(959).png,Healthy/Healthy(959).png,Healthy,10/2/2024,0,0,0,1
+P-31097615,69,Female,HOSP2,Caries(372).png,Caries/Caries(372).png,Caries,28-04-25,1,0,0,0
+P-759f713f,67,Female,HOSP2,Healthy(1090).png,Healthy/Healthy(1090).png,Healthy,12/1/2023,0,0,0,1
+P-12e6cc90,26,Female,HOSP2,RTC(1093).png,Root Canal/RTC(1093).png,Root Canal,24-04-23,0,0,1,0
+P-ba707b1e,78,Female,HOSP2,RTC(944).png,Root Canal/RTC(944).png,Root Canal,3/12/2023,0,0,1,0
+P-da271589,80,Female,HOSP2,RTC(1889).png,Root Canal/RTC(1889).png,Root Canal,29-02-24,0,0,1,0
+P-408ed529,68,Female,HOSP2,Crowned(269).png,Crowned/Crowned(269).png,Crowned,14-03-23,0,1,0,0
+P-c9d91820,17,Female,HOSP2,Crowned(678).png,Crowned/Crowned(678).png,Crowned,26-02-23,0,1,0,0
+P-c9d91820,17,Female,HOSP2,Caries(74).png,Caries/Caries(74).png,Caries,8/10/2024,1,0,0,0
+P-680e1e46,59,Male,HOSP2,RTC(987).png,Root Canal/RTC(987).png,Root Canal,9/5/2024,0,0,1,0
+P-680e1e46,59,Male,HOSP2,RTC(914).png,Root Canal/RTC(914).png,Root Canal,24-05-25,0,0,1,0
+P-71cfecd5,64,Male,HOSP2,Caries(561).png,Caries/Caries(561).png,Caries,13-09-23,1,0,0,0
+P-71cfecd5,64,Male,HOSP2,Crowned(422).png,Crowned/Crowned(422).png,Crowned,11/3/2025,0,1,0,0
+P-e99a9366,51,Male,HOSP2,Healthy(497).png,Healthy/Healthy(497).png,Healthy,24-07-24,0,0,0,1
+P-e99a9366,51,Male,HOSP2,Crowned(362).png,Crowned/Crowned(362).png,Crowned,1/9/2024,0,1,0,0
+P-c6805406,73,Male,HOSP2,Caries(209).png,Caries/Caries(209).png,Caries,27-10-23,1,0,0,0
+P-c6805406,73,Male,HOSP2,Healthy(1131).png,Healthy/Healthy(1131).png,Healthy,8/10/2024,0,0,0,1
+P-97ed4e90,48,Female,HOSP2,RTC(1266).png,Root Canal/RTC(1266).png,Root Canal,4/1/2023,0,0,1,0
+P-97ed4e90,48,Female,HOSP2,RTC(1845).png,Root Canal/RTC(1845).png,Root Canal,17-02-23,0,0,1,0
+P-5af784c4,60,Male,HOSP2,Healthy(439).png,Healthy/Healthy(439).png,Healthy,7/2/2023,0,0,0,1
+P-5af784c4,60,Male,HOSP2,Crowned(355).png,Crowned/Crowned(355).png,Crowned,23-02-23,0,1,0,0
+P-3c46dc4a,75,Female,HOSP2,Caries(8).png,Caries/Caries(8).png,Caries,12/3/2024,1,0,0,0
+P-f99b03bc,59,Female,HOSP2,Crowned(567).png,Crowned/Crowned(567).png,Crowned,20-04-25,0,1,0,0
+P-23d686ed,19,Male,HOSP2,RTC(974).png,Root Canal/RTC(974).png,Root Canal,8/10/2023,0,0,1,0
+P-23d686ed,19,Male,HOSP2,RTC(1795).png,Root Canal/RTC(1795).png,Root Canal,9/11/2024,0,0,1,0
+P-73085024,63,Male,HOSP2,Healthy(277).png,Healthy/Healthy(277).png,Healthy,18-03-25,0,0,0,1
+P-f8f26795,36,Male,HOSP2,Healthy(854).png,Healthy/Healthy(854).png,Healthy,2/5/2023,0,0,0,1
+P-f8f26795,36,Male,HOSP2,Healthy(1154).png,Healthy/Healthy(1154).png,Healthy,1/12/2023,0,0,0,1
+P-38984f42,23,Female,HOSP2,RTC(1449).png,Root Canal/RTC(1449).png,Root Canal,2/2/2023,0,0,1,0
+P-38984f42,23,Female,HOSP2,RTC(1206).png,Root Canal/RTC(1206).png,Root Canal,16-02-25,0,0,1,0
+P-7c999868,30,Male,HOSP2,RTC(604).png,Root Canal/RTC(604).png,Root Canal,31-05-23,0,0,1,0
+P-7c999868,30,Male,HOSP2,RTC(1902).png,Root Canal/RTC(1902).png,Root Canal,27-05-24,0,0,1,0
+P-01575466,26,Male,HOSP2,RTC(134).png,Root Canal/RTC(134).png,Root Canal,4/12/2023,0,0,1,0
+P-01575466,26,Male,HOSP2,Healthy(417).png,Healthy/Healthy(417).png,Healthy,19-03-25,0,0,0,1
+P-80d413f3,82,Male,HOSP2,Crowned(84).png,Crowned/Crowned(84).png,Crowned,12/1/2025,0,1,0,0
+P-80d413f3,82,Male,HOSP2,Crowned(51).png,Crowned/Crowned(51).png,Crowned,16-01-25,0,1,0,0
+P-1ff5e9ec,55,Female,HOSP2,RTC(1805).png,Root Canal/RTC(1805).png,Root Canal,9/5/2023,0,0,1,0
+P-aa2c1309,82,Male,HOSP2,Healthy(1370).png,Healthy/Healthy(1370).png,Healthy,23-09-23,0,0,0,1
+P-aa2c1309,82,Male,HOSP2,Healthy(762).png,Healthy/Healthy(762).png,Healthy,16-11-24,0,0,0,1
+P-89aac449,12,Female,HOSP2,Caries(129).png,Caries/Caries(129).png,Caries,28-10-24,1,0,0,0
+P-89aac449,12,Female,HOSP2,RTC(1009).png,Root Canal/RTC(1009).png,Root Canal,12/11/2024,0,0,1,0
+P-e97bb849,50,Male,HOSP2,RTC(1403).png,Root Canal/RTC(1403).png,Root Canal,10/9/2023,0,0,1,0
+P-e97bb849,50,Male,HOSP2,RTC(1364).png,Root Canal/RTC(1364).png,Root Canal,24-08-24,0,0,1,0
+P-54e66a7f,15,Female,HOSP2,RTC(2117).png,Root Canal/RTC(2117).png,Root Canal,31-08-23,0,0,1,0
+P-35a38ef9,23,Male,HOSP2,Healthy(677).png,Healthy/Healthy(677).png,Healthy,12/7/2024,0,0,0,1
+P-a56ac6aa,77,Female,HOSP2,RTC(2258).png,Root Canal/RTC(2258).png,Root Canal,28-11-23,0,0,1,0
+P-a56ac6aa,77,Female,HOSP2,RTC(856).png,Root Canal/RTC(856).png,Root Canal,14-01-25,0,0,1,0
+P-3e414533,39,Female,HOSP2,Caries(319).png,Caries/Caries(319).png,Caries,27-02-23,1,0,0,0
+P-36530eb4,13,Female,HOSP2,Healthy(445).png,Healthy/Healthy(445).png,Healthy,29-01-23,0,0,0,1
+P-36530eb4,13,Female,HOSP2,Caries(88).png,Caries/Caries(88).png,Caries,2/1/2025,1,0,0,0
+P-353a2502,13,Male,HOSP2,Caries(347).png,Caries/Caries(347).png,Caries,25-02-23,1,0,0,0
+P-0fd3cc85,12,Male,HOSP2,Caries(153).png,Caries/Caries(153).png,Caries,11/6/2023,1,0,0,0
+P-807e1532,26,Male,HOSP2,RTC(281).png,Root Canal/RTC(281).png,Root Canal,24-02-23,0,0,1,0
+P-807e1532,26,Male,HOSP2,Crowned(270).png,Crowned/Crowned(270).png,Crowned,6/4/2024,0,1,0,0
+P-305b0b6d,48,Female,HOSP2,Healthy(610).png,Healthy/Healthy(610).png,Healthy,16-07-23,0,0,0,1
+P-305b0b6d,48,Female,HOSP2,RTC(862).png,Root Canal/RTC(862).png,Root Canal,22-03-24,0,0,1,0
+P-3e774fb1,60,Male,HOSP2,RTC(884).png,Root Canal/RTC(884).png,Root Canal,4/6/2023,0,0,1,0
+P-4e2935a1,63,Female,HOSP2,Healthy(509).png,Healthy/Healthy(509).png,Healthy,30-04-23,0,0,0,1
+P-a48f34d0,24,Female,HOSP2,Healthy(1270).png,Healthy/Healthy(1270).png,Healthy,26-10-23,0,0,0,1
+P-b3189587,62,Female,HOSP2,Crowned(530).png,Crowned/Crowned(530).png,Crowned,4/1/2024,0,1,0,0
+P-b3189587,62,Female,HOSP2,RTC(424).png,Root Canal/RTC(424).png,Root Canal,3/3/2025,0,0,1,0
+P-79b943b3,53,Female,HOSP2,Caries(52).png,Caries/Caries(52).png,Caries,18-04-24,1,0,0,0
+P-3db5e457,80,Female,HOSP2,RTC(2221).png,Root Canal/RTC(2221).png,Root Canal,7/5/2025,0,0,1,0
+P-d6344ca4,83,Female,HOSP2,Healthy(191).png,Healthy/Healthy(191).png,Healthy,25-05-23,0,0,0,1
+P-f0639d78,33,Male,HOSP2,RTC(1512).png,Root Canal/RTC(1512).png,Root Canal,6/1/2024,0,0,1,0
+P-f0639d78,33,Male,HOSP2,RTC(1375).png,Root Canal/RTC(1375).png,Root Canal,23-03-25,0,0,1,0
+P-2e2ba54d,64,Male,HOSP2,Healthy(1257).png,Healthy/Healthy(1257).png,Healthy,1/3/2024,0,0,0,1
+P-2e2ba54d,64,Male,HOSP2,Crowned(303).png,Crowned/Crowned(303).png,Crowned,23-03-24,0,1,0,0
+P-111654f3,80,Female,HOSP2,Healthy(213).png,Healthy/Healthy(213).png,Healthy,12/10/2023,0,0,0,1
+P-be7e733e,79,Female,HOSP2,Caries(600).png,Caries/Caries(600).png,Caries,20-08-24,1,0,0,0
+P-02677f35,62,Female,HOSP2,Crowned(3).png,Crowned/Crowned(3).png,Crowned,25-02-23,0,1,0,0
+P-53beb0ad,58,Male,HOSP2,Healthy(31).png,Healthy/Healthy(31).png,Healthy,15-06-23,0,0,0,1
+P-09ef2d19,29,Male,HOSP2,Healthy(683).png,Healthy/Healthy(683).png,Healthy,9/11/2023,0,0,0,1
+P-52d0d202,12,Female,HOSP2,Caries(585).png,Caries/Caries(585).png,Caries,21-04-24,1,0,0,0
+P-bd3527f8,71,Female,HOSP2,Healthy(759).png,Healthy/Healthy(759).png,Healthy,2/5/2023,0,0,0,1
+P-bd3527f8,71,Female,HOSP2,Healthy(547).png,Healthy/Healthy(547).png,Healthy,9/11/2024,0,0,0,1
+P-cf76ec58,20,Male,HOSP2,RTC(1243).png,Root Canal/RTC(1243).png,Root Canal,14-04-23,0,0,1,0
+P-cf76ec58,20,Male,HOSP2,RTC(1791).png,Root Canal/RTC(1791).png,Root Canal,8/5/2023,0,0,1,0
+P-0628dfaf,56,Female,HOSP2,Healthy(575).png,Healthy/Healthy(575).png,Healthy,11/12/2023,0,0,0,1
+P-3d2eef36,65,Female,HOSP2,RTC(1430).png,Root Canal/RTC(1430).png,Root Canal,18-03-24,0,0,1,0
+P-3d2eef36,65,Female,HOSP2,Crowned(65).png,Crowned/Crowned(65).png,Crowned,10/1/2025,0,1,0,0
+P-dd054701,21,Male,HOSP2,RTC(162).png,Root Canal/RTC(162).png,Root Canal,5/2/2023,0,0,1,0
+P-6b7ade18,77,Male,HOSP2,RTC(2137).png,Root Canal/RTC(2137).png,Root Canal,9/6/2023,0,0,1,0
+P-f8dfdd68,57,Female,HOSP2,Crowned(688).png,Crowned/Crowned(688).png,Crowned,10/3/2023,0,1,0,0
+P-da331c31,43,Male,HOSP2,RTC(337).png,Root Canal/RTC(337).png,Root Canal,17-01-23,0,0,1,0
+P-da331c31,43,Male,HOSP2,Crowned(580).png,Crowned/Crowned(580).png,Crowned,27-03-25,0,1,0,0
+P-35f90342,50,Male,HOSP2,RTC(491).png,Root Canal/RTC(491).png,Root Canal,5/7/2024,0,0,1,0
+P-e3781f8e,21,Male,HOSP2,Crowned(17).png,Crowned/Crowned(17).png,Crowned,10/11/2024,0,1,0,0
+P-7a5eb9ae,54,Male,HOSP2,RTC(907).png,Root Canal/RTC(907).png,Root Canal,29-07-23,0,0,1,0
+P-fc055aa5,44,Male,HOSP2,RTC(1241).png,Root Canal/RTC(1241).png,Root Canal,5/8/2024,0,0,1,0
+P-68cfe35a,43,Female,HOSP2,RTC(1264).png,Root Canal/RTC(1264).png,Root Canal,10/8/2023,0,0,1,0
+P-68cfe35a,43,Female,HOSP2,Healthy(76).png,Healthy/Healthy(76).png,Healthy,25-01-25,0,0,0,1
+P-0619a356,37,Female,HOSP2,Healthy(5).png,Healthy/Healthy(5).png,Healthy,4/4/2023,0,0,0,1
+P-6800d112,19,Female,HOSP2,Healthy(1053).png,Healthy/Healthy(1053).png,Healthy,8/7/2023,0,0,0,1
+P-6800d112,19,Female,HOSP2,Caries(190).png,Caries/Caries(190).png,Caries,20-02-24,1,0,0,0
+P-405b1727,75,Female,HOSP2,RTC(2023).png,Root Canal/RTC(2023).png,Root Canal,14-01-23,0,0,1,0
+P-405b1727,75,Female,HOSP2,Crowned(316).png,Crowned/Crowned(316).png,Crowned,12/6/2024,0,1,0,0
+P-a4cb6bc5,15,Male,HOSP2,Healthy(1357).png,Healthy/Healthy(1357).png,Healthy,24-02-24,0,0,0,1
+P-a4cb6bc5,15,Male,HOSP2,Crowned(1).png,Crowned/Crowned(1).png,Crowned,8/5/2024,0,1,0,0
+P-e11e454f,61,Female,HOSP2,RTC(2367).png,Root Canal/RTC(2367).png,Root Canal,25-03-23,0,0,1,0
+P-5daa69b5,31,Female,HOSP2,RTC(1551).png,Root Canal/RTC(1551).png,Root Canal,15-01-23,0,0,1,0
+P-5daa69b5,31,Female,HOSP2,RTC(1979).png,Root Canal/RTC(1979).png,Root Canal,21-07-23,0,0,1,0
+P-cd918d88,54,Female,HOSP2,Healthy(1175).png,Healthy/Healthy(1175).png,Healthy,6/4/2023,0,0,0,1
+P-f18f7d6c,80,Male,HOSP2,RTC(2012).png,Root Canal/RTC(2012).png,Root Canal,2/3/2025,0,0,1,0
+P-c59c34fc,42,Female,HOSP2,RTC(375).png,Root Canal/RTC(375).png,Root Canal,4/2/2023,0,0,1,0
+P-7573ea5f,34,Male,HOSP2,Healthy(626).png,Healthy/Healthy(626).png,Healthy,26-10-23,0,0,0,1
+P-7573ea5f,34,Male,HOSP2,RTC(1667).png,Root Canal/RTC(1667).png,Root Canal,7/9/2024,0,0,1,0
+P-d615c7d7,37,Female,HOSP2,RTC(21).png,Root Canal/RTC(21).png,Root Canal,12/7/2023,0,0,1,0
+P-d615c7d7,37,Female,HOSP2,RTC(793).png,Root Canal/RTC(793).png,Root Canal,8/6/2024,0,0,1,0
+P-22e8dd4a,23,Female,HOSP2,Caries(181).png,Caries/Caries(181).png,Caries,27-03-25,1,0,0,0
+P-22e8dd4a,23,Female,HOSP2,Healthy(712).png,Healthy/Healthy(712).png,Healthy,16-04-25,0,0,0,1
+P-f602d3b2,35,Female,HOSP2,Healthy(722).png,Healthy/Healthy(722).png,Healthy,12/2/2023,0,0,0,1
+P-f602d3b2,35,Female,HOSP2,RTC(2293).png,Root Canal/RTC(2293).png,Root Canal,6/5/2024,0,0,1,0
+P-d14be417,16,Female,HOSP2,Healthy(694).png,Healthy/Healthy(694).png,Healthy,27-10-23,0,0,0,1
+P-0fa8510d,69,Male,HOSP2,RTC(1693).png,Root Canal/RTC(1693).png,Root Canal,9/8/2023,0,0,1,0
+P-0fa8510d,69,Male,HOSP2,RTC(149).png,Root Canal/RTC(149).png,Root Canal,9/11/2024,0,0,1,0
+P-af0a52d4,16,Female,HOSP2,RTC(783).png,Root Canal/RTC(783).png,Root Canal,9/1/2025,0,0,1,0
+P-60bb0060,36,Female,HOSP2,Healthy(257).png,Healthy/Healthy(257).png,Healthy,12/12/2023,0,0,0,1
+P-8662d463,67,Female,HOSP2,RTC(840).png,Root Canal/RTC(840).png,Root Canal,17-02-23,0,0,1,0
+P-8662d463,67,Female,HOSP2,RTC(1564).png,Root Canal/RTC(1564).png,Root Canal,26-07-23,0,0,1,0
+P-7c40878c,60,Male,HOSP2,RTC(747).png,Root Canal/RTC(747).png,Root Canal,1/9/2023,0,0,1,0
+P-7c40878c,60,Male,HOSP2,RTC(1293).png,Root Canal/RTC(1293).png,Root Canal,2/2/2024,0,0,1,0
+P-c9d8564b,57,Male,HOSP2,Healthy(214).png,Healthy/Healthy(214).png,Healthy,23-06-23,0,0,0,1
+P-c9d8564b,57,Male,HOSP2,RTC(853).png,Root Canal/RTC(853).png,Root Canal,20-07-24,0,0,1,0
+P-b98be2e7,82,Female,HOSP2,Crowned(257).png,Crowned/Crowned(257).png,Crowned,2/5/2023,0,1,0,0
+P-b98be2e7,82,Female,HOSP2,RTC(385).png,Root Canal/RTC(385).png,Root Canal,8/2/2025,0,0,1,0
+P-881b7f8e,51,Female,HOSP2,Caries(255).png,Caries/Caries(255).png,Caries,14-09-23,1,0,0,0
+P-881b7f8e,51,Female,HOSP2,Healthy(412).png,Healthy/Healthy(412).png,Healthy,11/1/2024,0,0,0,1
+P-0a55cb5a,57,Male,HOSP2,RTC(465).png,Root Canal/RTC(465).png,Root Canal,3/2/2024,0,0,1,0
+P-0a55cb5a,57,Male,HOSP2,Healthy(604).png,Healthy/Healthy(604).png,Healthy,22-12-24,0,0,0,1
+P-436982d4,71,Female,HOSP2,RTC(795).png,Root Canal/RTC(795).png,Root Canal,31-10-23,0,0,1,0
+P-436982d4,71,Female,HOSP2,Healthy(738).png,Healthy/Healthy(738).png,Healthy,26-03-24,0,0,0,1
+P-58d2e229,50,Female,HOSP2,Caries(123).png,Caries/Caries(123).png,Caries,2/1/2023,1,0,0,0
+P-58d2e229,50,Female,HOSP2,RTC(1426).png,Root Canal/RTC(1426).png,Root Canal,22-01-23,0,0,1,0
+P-890ef320,83,Male,HOSP2,Caries(269).png,Caries/Caries(269).png,Caries,3/1/2023,1,0,0,0
+P-890ef320,83,Male,HOSP2,Healthy(173).png,Healthy/Healthy(173).png,Healthy,8/6/2024,0,0,0,1
+P-1a581d9a,30,Male,HOSP2,RTC(12).png,Root Canal/RTC(12).png,Root Canal,11/1/2023,0,0,1,0
+P-1a581d9a,30,Male,HOSP2,Healthy(7).png,Healthy/Healthy(7).png,Healthy,10/11/2024,0,0,0,1
+P-c5ee240e,46,Male,HOSP2,RTC(1302).png,Root Canal/RTC(1302).png,Root Canal,27-03-23,0,0,1,0
+P-c5ee240e,46,Male,HOSP2,Healthy(1217).png,Healthy/Healthy(1217).png,Healthy,15-01-25,0,0,0,1
+P-20292dab,19,Male,HOSP2,Crowned(75).png,Crowned/Crowned(75).png,Crowned,15-06-23,0,1,0,0
+P-20292dab,19,Male,HOSP2,Healthy(1482).png,Healthy/Healthy(1482).png,Healthy,24-08-23,0,0,0,1
+P-6d0b2b7f,24,Female,HOSP2,Crowned(644).png,Crowned/Crowned(644).png,Crowned,21-02-23,0,1,0,0
+P-e6b503ab,75,Male,HOSP2,Healthy(1120).png,Healthy/Healthy(1120).png,Healthy,31-08-23,0,0,0,1
+P-e6b503ab,75,Male,HOSP2,Caries(409).png,Caries/Caries(409).png,Caries,16-12-24,1,0,0,0
+P-601df478,80,Male,HOSP2,Crowned(670).png,Crowned/Crowned(670).png,Crowned,8/3/2023,0,1,0,0
+P-601df478,80,Male,HOSP2,Crowned(90).png,Crowned/Crowned(90).png,Crowned,7/2/2025,0,1,0,0
+P-7769f865,23,Male,HOSP2,RTC(1858).png,Root Canal/RTC(1858).png,Root Canal,30-12-23,0,0,1,0
+P-5e53b4e7,27,Male,HOSP2,Healthy(1008).png,Healthy/Healthy(1008).png,Healthy,17-01-23,0,0,0,1
+P-5e53b4e7,27,Male,HOSP2,Caries(31).png,Caries/Caries(31).png,Caries,6/8/2024,1,0,0,0
+P-7d39ca65,63,Male,HOSP2,RTC(1134).png,Root Canal/RTC(1134).png,Root Canal,16-06-23,0,0,1,0
+P-7d39ca65,63,Male,HOSP2,RTC(1569).png,Root Canal/RTC(1569).png,Root Canal,9/11/2023,0,0,1,0
+P-2467eb1d,60,Female,HOSP2,RTC(2028).png,Root Canal/RTC(2028).png,Root Canal,14-01-23,0,0,1,0
+P-cbd63cc6,45,Female,HOSP2,Healthy(321).png,Healthy/Healthy(321).png,Healthy,3/4/2023,0,0,0,1
+P-cbd63cc6,45,Female,HOSP2,RTC(1784).png,Root Canal/RTC(1784).png,Root Canal,11/4/2023,0,0,1,0
+P-ab60394c,44,Male,HOSP2,Crowned(323).png,Crowned/Crowned(323).png,Crowned,13-08-24,0,1,0,0
+P-1dd751a9,23,Female,HOSP2,RTC(720).png,Root Canal/RTC(720).png,Root Canal,1/3/2023,0,0,1,0
+P-1dd751a9,23,Female,HOSP2,Healthy(934).png,Healthy/Healthy(934).png,Healthy,22-06-23,0,0,0,1
+P-19290c3d,47,Male,HOSP2,RTC(1606).png,Root Canal/RTC(1606).png,Root Canal,26-10-23,0,0,1,0
+P-19290c3d,47,Male,HOSP2,Healthy(1354).png,Healthy/Healthy(1354).png,Healthy,17-01-24,0,0,0,1
+P-33f8f234,85,Female,HOSP2,Healthy(435).png,Healthy/Healthy(435).png,Healthy,27-06-23,0,0,0,1
+P-22eb13a5,59,Male,HOSP2,Crowned(243).png,Crowned/Crowned(243).png,Crowned,16-02-23,0,1,0,0
+P-22eb13a5,59,Male,HOSP2,Crowned(450).png,Crowned/Crowned(450).png,Crowned,30-03-24,0,1,0,0
+P-64f3e2df,56,Female,HOSP2,Healthy(1223).png,Healthy/Healthy(1223).png,Healthy,7/3/2024,0,0,0,1
+P-64f3e2df,56,Female,HOSP2,RTC(964).png,Root Canal/RTC(964).png,Root Canal,6/7/2024,0,0,1,0
+P-9d408845,66,Male,HOSP2,RTC(1644).png,Root Canal/RTC(1644).png,Root Canal,13-03-24,0,0,1,0
+P-9d408845,66,Male,HOSP2,Healthy(107).png,Healthy/Healthy(107).png,Healthy,5/8/2024,0,0,0,1
+P-b3ab3e03,17,Male,HOSP2,RTC(1083).png,Root Canal/RTC(1083).png,Root Canal,7/8/2024,0,0,1,0
+P-fd10b7e0,33,Female,HOSP2,Crowned(299).png,Crowned/Crowned(299).png,Crowned,10/5/2023,0,1,0,0
+P-fd10b7e0,33,Female,HOSP2,RTC(1849).png,Root Canal/RTC(1849).png,Root Canal,24-03-24,0,0,1,0
+P-d147faf9,80,Female,HOSP2,RTC(1767).png,Root Canal/RTC(1767).png,Root Canal,25-05-24,0,0,1,0
+P-d147faf9,80,Female,HOSP2,Healthy(1075).png,Healthy/Healthy(1075).png,Healthy,1/11/2024,0,0,0,1
+P-2a674563,18,Female,HOSP2,Healthy(447).png,Healthy/Healthy(447).png,Healthy,5/2/2025,0,0,0,1
